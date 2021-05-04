@@ -9,12 +9,12 @@ import os
 import sys
 
 # add your project directory to the sys.path
-project_home = '/home/sgwaigi/bi/bi'
-if project_home not in sys.path:
-    sys.path.insert(0, project_home)
+# project_home = '/home/sgwaigi/bi/bi'
+# if project_home not in sys.path:
+#     sys.path.insert(0, project_home)
 
 # set environment variable to tell django where your settings.py is
-os.environ['DJANGO_SETTINGS_MODULE'] = 'bi.bi.bi.settings'
+os.environ['DJANGO_SETTINGS_MODULE'] = 'bi.settings'
 
 
 # serve django via WSGI
