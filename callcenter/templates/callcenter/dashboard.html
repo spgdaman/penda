@@ -1,0 +1,96 @@
+{% extends 'callcenter/main.html' %}
+
+{% block content %}
+
+<div class="container">
+    <div class="row">
+        
+        <!-- Pagination goes here -->  
+        {% if page_objs.has_other_pages %}
+            <ul class="pagination">
+                {% if page_objs.has_previous %}
+                    <li class="page-item"><a class="page-link" href="?page={{ page_objs.previous_page_number }}">&laquo;</a></li>
+                {% else %}
+                    <li class="disabled page-item"><span>&laquo;</span></li>
+                {% endif %}
+                {% for i in page_objs.paginator.page_range %}
+                    {% if page_objs.number == i %}
+                        <li class="active page-item"><span class="page-link">{{ i }} <span class="sr-only">(current)</span></span></li>
+                    {% else %}
+                        <li class="page-item"><a class="page-link" href="?page={{ i }}">{{ i }}</a></li>
+                    {% endif %}
+                {% endfor %}
+                {% if page_objs.has_next %}
+                    <li class="page-item"><a class="page-link" href="?page={{ page_objs.next_page_number }}">&raquo;</a></li>
+                    {% else %}
+                    <li class="disabled page-item"><span>&raquo;</span></li>
+                {% endif %}
+            </ul>
+        {% endif %}
+
+    </div>
+
+    <div class="row">
+
+        <!-- Table goes here -->
+        <table class="table table-striped col-lg-1">
+            <thead>
+                <tr>
+                    <th scope="Call Time">Call Time</th>
+                    <th scope="Caller ID">Caller ID</th>
+                    <th scope="Destination">Destination</th>
+                    <th scope="Status">Status</th>
+                    <th scope="Ringing">Ringing</th>
+                    <th scope="Talking">Talking</th>
+                    <th scope="Reason">Reason</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for page_obj in page_objs %}
+                    <tr>
+                        <td>{{ page_obj.call_time }}</td>
+                        <td>{{ page_obj.caller_id }}</td>
+                        <td>{{ page_obj.destination }}</td>
+                        <td>{{ page_obj.status }}</td>
+                        <td>{{ page_obj.ringing }}</td>
+                        <td>{{ page_obj.talking }}</td>
+                        <td>{{ page_obj.reason }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        
+    </div>  
+
+    <div class="row">
+        
+        <!-- Pagination goes here -->  
+        {% if page_objs.has_other_pages %}
+            <ul class="pagination">
+                {% if page_objs.has_previous %}
+                    <li class="page-item"><a class="page-link" href="?page={{ page_objs.previous_page_number }}">&laquo;</a></li>
+                {% else %}
+                    <li class="disabled page-item"><span>&laquo;</span></li>
+                {% endif %}
+                {% for i in page_objs.paginator.page_range %}
+                    {% if page_objs.number == i %}
+                        <li class="active page-item"><span class="page-link">{{ i }} <span class="sr-only">(current)</span></span></li>
+                    {% else %}
+                        <li class="page-item"><a class="page-link" href="?page={{ i }}">{{ i }}</a></li>
+                    {% endif %}
+                {% endfor %}
+                {% if page_objs.has_next %}
+                    <li class="page-item"><a class="page-link" href="?page={{ page_objs.next_page_number }}">&raquo;</a></li>
+                    {% else %}
+                    <li class="disabled page-item"><span>&raquo;</span></li>
+                {% endif %}
+            </ul>
+        {% endif %}
+
+    </div>
+
+</div>
+
+
+
+{% endblock %}

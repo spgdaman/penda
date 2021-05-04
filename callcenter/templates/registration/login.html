@@ -1,0 +1,36 @@
+{% extends 'registration/base.html' %}
+{% load bootstrap4 %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4 pt-5 mt-5">
+            <div class="card card-default">
+                <div class="card-heading">
+                    <h3 class="text-center">Log In</h3>
+                </div>
+
+                <div class="panel-body mx-2">
+                    <form method="post">
+                        {% csrf_token %}
+                        {% bootstrap_form form %}
+                        <div class="mx-auto">
+                            <input class="btn btn-success btn-lg btn-block" type="submit" value="Login">
+                        </div>
+                    </form>
+                </div>
+
+                <div class="mx-auto">
+                    <a href="{% url 'dashboard' %}">Back to dashboard</a>
+                    <a href="{% url 'password_reset' %}">Reset password</a>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-md-4"></div>
+        
+    </div>
+</div>
+
+{% endblock %}

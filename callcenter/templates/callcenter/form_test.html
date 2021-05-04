@@ -1,0 +1,29 @@
+{% extends 'callcenter/main.html' %}
+
+{% block content %}
+
+{% comment %} <form action="" method="post">
+    {% csrf_token %}
+    {{form}}
+    <input type="submit">
+</form> {% endcomment %}
+
+<div class="container">
+    <div class="row">
+        <div class="card mx-auto">
+            <div class="card-header">
+                <h5 class="mx-auto">Upload File</h5>
+            </div>
+            <div class="card-body">
+                <form action="" method="post" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <input type="file" name="Call Volumes" ><br>
+                    <input type="submit">
+                </form>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+{% endblock %}

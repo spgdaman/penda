@@ -1,0 +1,986 @@
+Call Time,Caller ID,Destination,Status,Ringing,Talking,Reason,Totals
+3/18/2021 4:57:04 AM,+254708432011,Umoja 1 (019),answered,00:00:18,00:00:00,Picked up by Umoja 1 (019),
+,+254708432011,Umoja 1 (019),answered,00:00:00,00:00:46,Terminated by Umoja 1 (019),https://pendahealth.elastix.com:5001/#/download_record/019%252F%255BUmoja%25201%255D_019-%252B254708432011_20210318015722%25281818%2529.wav
+3/18/2021 5:47:46 AM,+254753034907,Umoja 1 (019),unanswered,00:00:08,00:00:00,Failed Canceled,
+3/18/2021 6:48:09 AM,+254791020793,Umoja 1 (019),unanswered,00:00:30,00:00:00,Failed Canceled,
+3/18/2021 7:28:44 AM,+254723875874,IVR (802),answered,00:00:00,00:00:16,IVR (802) replaced by Q Customer Care #1 (800),
+,+254723875874,Q Customer Care #1 (800),answered,00:00:00,00:00:10,Q Customer Care #1 (800) replaced by Zamzam Said (102),
+,+254723875874,Zamzam Said (102),answered,00:00:10,00:00:23,Terminated by +254723875874,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BCustomer%2520Care%2520%25231%25253A%252B254723875874%255D_%252B254723875874-102_20210318042910%25281821%2529.wav
+3/18/2021 7:29:38 AM,+254723875874,IVR (802),answered,00:00:00,00:00:10,IVR (802) replaced by Q Customer Care #1 (800),
+,+254723875874,Q Customer Care #1 (800),answered,00:00:00,00:00:06,Q Customer Care #1 (800) replaced by Zamzam Said (102),
+,+254723875874,Zamzam Said (102),answered,00:00:05,00:02:00,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BCustomer%2520Care%2520%25231%25253A%252B254723875874%255D_%252B254723875874-102_20210318042954%25281822%2529.wav
+3/18/2021 8:02:00 AM,+254739380654,IVR (802),answered,00:00:00,00:00:18,IVR (802) replaced by Q Customer Care #1 (800),
+,+254739380654,Q Customer Care #1 (800),answered,00:00:00,00:00:10,Q Customer Care #1 (800) replaced by Zamzam Said (102),
+,+254739380654,Zamzam Said (102),answered,00:00:10,00:01:31,Terminated by +254739380654,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BCustomer%2520Care%2520%25231%25253A%252B254739380654%255D_%252B254739380654-102_20210318050228%25281823%2529.wav
+3/18/2021 8:31:34 AM,+254714323784,IVR (802),answered,00:00:01,00:00:27,IVR (802) replaced by Q Customer Care #1 (800),
+,+254714323784,Q Customer Care #1 (800),answered,00:00:00,00:00:06,Q Customer Care #1 (800) replaced by Zamzam Said (102),
+,+254714323784,Zamzam Said (102),answered,00:00:06,00:00:57,Terminated by +254714323784,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BCustomer%2520Care%2520%25231%25253A%252B254714323784%255D_%252B254714323784-102_20210318053208%25281824%2529.wav
+3/18/2021 8:55:07 AM,+254722552732,IVR (802),answered,00:00:00,00:00:17,IVR (802) replaced by Q Customer Care #1 (800),
+,+254722552732,Q Customer Care #1 (800),unanswered,00:00:00,00:01:02,Terminated by +254722552732,
+3/18/2021 9:09:07 AM,+254739113661,IVR (802),answered,00:00:00,00:00:17,IVR (802) replaced by Q Customer Care #1 (800),
+,+254739113661,Q Customer Care #1 (800),unanswered,00:00:00,00:00:14,Terminated by +254739113661,
+3/18/2021 9:09:45 AM,+254739113661,IVR (802),answered,00:00:00,00:00:32,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254739113661,Q Clinical Care #2 (801),answered,00:00:00,00:00:12,Q Clinical Care #2 (801) replaced by Dorice Shiundu (012),
+,+254739113661,Dorice Shiundu (012),answered,00:00:12,00:00:00,Picked up by Dorice Shiundu (012),
+,+254739113661,Dorice Shiundu (012),answered,00:00:00,00:00:37,Terminated by +254739113661,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-%252B254739113661_20210318061029%25281828%2529.wav
+3/18/2021 9:19:46 AM,Eunice Mureithi (003),+254793269224,unanswered,00:00:01,00:00:00,Failed,
+3/18/2021 9:16:21 AM,+254769423320,IVR (802),answered,00:00:00,00:00:12,IVR (802) replaced by Q Customer Care #1 (800),
+,+254769423320,Q Customer Care #1 (800),unanswered,00:00:01,00:03:32,Terminated by +254769423320,
+3/18/2021 9:21:29 AM,Dorice Shiundu (012),+254793269254,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 9:21:55 AM,Dorice Shiundu (012),+254739113661,unanswered,00:00:06,00:00:00,Failed,
+3/18/2021 9:22:10 AM,Dorice Shiundu (012),+254793269254,answered,00:00:15,00:00:08,Terminated by +254793269254,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-0793269254_20210318062225%25281833%2529.wav
+3/18/2021 9:22:38 AM,Dorice Shiundu (012),+254793269254,answered,00:00:13,00:00:28,Terminated by +254793269254,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-0793269254_20210318062251%25281834%2529.wav
+3/18/2021 9:30:17 AM,Dorice Shiundu (012),+254714076420,answered,00:00:27,00:00:01,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-714076420_20210318063044%25281835%2529.wav
+3/18/2021 9:30:49 AM,Dorice Shiundu (012),+254719721142,answered,00:00:10,00:00:22,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-719721142_20210318063059%25281836%2529.wav
+3/18/2021 9:31:30 AM,Dorice Shiundu (012),+254704751273,unanswered,00:00:26,00:00:00,Failed,
+3/18/2021 9:32:00 AM,Dorice Shiundu (012),+254722149826,answered,00:00:13,00:00:36,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-722149826_20210318063213%25281838%2529.wav
+3/18/2021 9:32:21 AM,+254704751273,IVR (802),answered,00:00:00,00:00:17,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254704751273,Q Clinical Care #2 (801),answered,00:00:00,00:00:14,Q Clinical Care #2 (801) replaced by Dorice Shiundu (012),
+,+254704751273,Dorice Shiundu (012),answered,00:00:02,00:00:59,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BClinical%2520Care%2520%25232%25253A%252B254704751273%255D_%252B254704751273-012_20210318063252%25281839%2529.wav
+3/18/2021 9:44:18 AM,+254723551170,IVR (802),answered,00:00:00,00:00:00,Terminated by +254723551170,
+3/18/2021 9:44:41 AM,+254723551170,IVR (802),answered,00:00:01,00:00:22,Terminated by +254723551170,
+3/18/2021 9:45:36 AM,+254723551170,IVR (802),answered,00:00:00,00:00:14,Terminated by +254723551170,
+3/18/2021 9:47:50 AM,Dorice Shiundu (012),+254717549499,answered,00:00:12,00:00:34,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-717549499_20210318064802%25281843%2529.wav
+3/18/2021 9:49:16 AM,Dorice Shiundu (012),+254725534432,unanswered,00:00:24,00:00:00,Failed,
+3/18/2021 9:49:45 AM,Dorice Shiundu (012),+254705935186,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 9:50:57 AM,Dorice Shiundu (012),+254719748930,answered,00:00:28,00:00:29,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-719748930_20210318065125%25281846%2529.wav
+3/18/2021 9:51:58 AM,Dorice Shiundu (012),+254726149256,answered,00:00:15,00:00:24,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-726149256_20210318065213%25281847%2529.wav
+3/18/2021 9:52:42 AM,Dorice Shiundu (012),+254713345464,answered,00:00:16,00:00:38,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-713345464_20210318065258%25281848%2529.wav
+3/18/2021 9:53:41 AM,Dorice Shiundu (012),+254728724198,unanswered,00:00:31,00:00:00,Failed,
+3/18/2021 9:54:17 AM,Dorice Shiundu (012),+254713406998,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 9:55:12 AM,+254726149256,IVR (802),answered,00:00:01,00:00:02,Terminated by +254726149256,
+3/18/2021 9:54:52 AM,Dorice Shiundu (012),+254716306553,answered,00:00:06,00:00:36,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-716306553_20210318065458%25281852%2529.wav
+3/18/2021 9:56:06 AM,+254726149256,IVR (802),answered,00:00:00,00:00:16,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254726149256,Q Clinical Care #2 (801),answered,00:00:00,00:00:27,Q Clinical Care #2 (801) replaced by Lillian Maina (025),
+,+254726149256,Lillian Maina (025),answered,00:00:27,00:00:11,Terminated by +254726149256,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BClinical%2520Care%2520%25232%25253A%252B254726149256%255D_%252B254726149256-025_20210318065649%25281854%2529.wav
+3/18/2021 9:57:10 AM,Dorice Shiundu (012),+254704130480,unanswered,00:00:22,00:00:00,Failed,
+3/18/2021 9:58:29 AM,Dorice Shiundu (012),+254710654949,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 9:58:15 AM,Lillian Maina (025),+254726149256,answered,00:00:19,00:00:19,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-%252B254726149256_20210318065834%25281856%2529.wav
+3/18/2021 9:58:54 AM,Dorice Shiundu (012),+254701182026,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 10:00:15 AM,Lillian Maina (025),Dorice Shiundu (012),answered,00:00:04,00:00:15,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-012_20210318070019%25281859%2529.wav
+3/18/2021 10:00:51 AM,Lillian Maina (025),Dorice Shiundu (012),answered,00:00:04,00:00:11,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-012_20210318070055%25281860%2529.wav
+3/18/2021 9:53:28 AM,+254784817856,IVR (802),answered,00:00:00,00:00:25,IVR (802) replaced by Q Customer Care #1 (800),
+,+254784817856,Q Customer Care #1 (800),unanswered,00:00:00,00:08:21,Terminated by +254784817856,
+3/18/2021 10:01:29 AM,Lillian Maina (025),+254726149256,answered,00:00:20,00:01:26,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-%252B254726149256_20210318070149%25281861%2529.wav
+3/18/2021 10:03:36 AM,Dorice Shiundu (012),+254728521807,answered,00:00:20,00:01:33,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-728521807_20210318070356%25281862%2529.wav
+3/18/2021 10:05:39 AM,Dorice Shiundu (012),+254712206335,answered,00:00:21,00:00:36,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-712206335_20210318070600%25281863%2529.wav
+3/18/2021 10:06:41 AM,Dorice Shiundu (012),+254713970111,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 10:07:24 AM,+254721513939,IVR (802),answered,00:00:00,00:00:00,Terminated by +254721513939,
+3/18/2021 10:06:00 AM,+254727073951,IVR (802),answered,00:00:01,00:00:28,IVR (802) replaced by Q Customer Care #1 (800),
+,+254727073951,Q Customer Care #1 (800),answered,00:00:01,00:00:12,Q Customer Care #1 (800) replaced by Zamzam Said (102),
+,+254727073951,Zamzam Said (102),answered,00:00:12,00:01:15,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BCustomer%2520Care%2520%25231%25253A%252B254727073951%255D_%252B254727073951-102_20210318070642%25281864%2529.wav
+3/18/2021 10:07:34 AM,Dorice Shiundu (012),+254725716257,unanswered,00:00:27,00:00:00,Failed,
+3/18/2021 10:08:36 AM,Zamzam Said (102),+254784817856,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 10:08:05 AM,Dorice Shiundu (012),+254702305108,answered,00:00:12,00:00:51,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-702305108_20210318070817%25281868%2529.wav
+3/18/2021 10:09:13 AM,Dorice Shiundu (012),+254740879164,unanswered,00:00:29,00:00:00,Failed,
+3/18/2021 10:09:47 AM,Dorice Shiundu (012),+254704711704,answered,00:00:18,00:00:37,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-704711704_20210318071005%25281871%2529.wav
+3/18/2021 10:11:26 AM,Dorice Shiundu (012),+254798237221,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 10:12:09 AM,Dorice Shiundu (012),+254795125666,answered,00:00:16,00:00:08,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-795125666_20210318071225%25281873%2529.wav
+3/18/2021 10:12:49 AM,Dorice Shiundu (012),+254718604800,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 10:13:31 AM,Dorice Shiundu (012),+254714655610,answered,00:00:17,00:00:09,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-714655610_20210318071348%25281875%2529.wav
+3/18/2021 10:14:01 AM,Dorice Shiundu (012),+254725445420,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 10:14:40 AM,Dorice Shiundu (012),+254721463975,unanswered,00:00:22,00:00:00,Failed,
+3/18/2021 10:15:07 AM,Dorice Shiundu (012),+254700248949,unanswered,00:00:19,00:00:00,Failed,
+3/18/2021 10:15:46 AM,+254713406998,IVR (802),answered,00:00:00,00:00:25,Terminated by +254713406998,
+3/18/2021 10:16:13 AM,+254728724198,IVR (802),answered,00:00:01,00:00:14,Terminated by +254728724198,
+3/18/2021 10:15:30 AM,Dorice Shiundu (012),+254706378626,answered,00:00:21,00:00:39,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-706378626_20210318071551%25281879%2529.wav
+3/18/2021 10:16:34 AM,+254728724198,IVR (802),answered,00:00:00,00:00:12,Terminated by +254728724198,
+3/18/2021 10:16:54 AM,Dorice Shiundu (012),+254705443197,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 10:17:11 AM,Dorice Shiundu (012),+254715520969,answered,00:00:11,00:00:33,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-715520969_20210318071722%25281884%2529.wav
+3/18/2021 10:18:00 AM,Dorice Shiundu (012),+254759110952,answered,00:00:14,00:00:21,Terminated by +254759110952,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-759110952_20210318071814%25281885%2529.wav
+3/18/2021 10:21:52 AM,Eunice Mureithi (003),+254718050387,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 10:21:24 AM,Eunice Mureithi (003),+254718050387,answered,00:00:11,00:00:32,Terminated by Eunice Mureithi (003),https://pendahealth.elastix.com:5001/#/download_record/003%252F%255BEunice%2520Mureithi%255D_003-0718050387_20210318072135%25281887%2529.wav
+3/18/2021 10:21:41 AM,Dorice Shiundu (012),+254722990725,answered,00:00:06,00:00:52,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-722990725_20210318072147%25281888%2529.wav
+3/18/2021 10:22:20 AM,Eunice Mureithi (003),+254718050387,answered,00:00:12,00:00:16,Terminated by +254718050387,https://pendahealth.elastix.com:5001/#/download_record/003%252F%255BEunice%2520Mureithi%255D_003-0718050387_20210318072232%25281890%2529.wav
+3/18/2021 10:23:03 AM,+254718050387,IVR (802),answered,00:00:00,00:00:06,Terminated by +254718050387,
+3/18/2021 10:23:24 AM,+254704130480,IVR (802),answered,00:00:00,00:00:04,Terminated by +254704130480,
+3/18/2021 10:22:46 AM,Dorice Shiundu (012),+254714230264,answered,00:00:11,00:00:45,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-714230264_20210318072257%25281891%2529.wav
+3/18/2021 10:23:15 AM,+254725540135,IVR (802),answered,00:00:01,00:00:14,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254725540135,Q Clinical Care #2 (801),answered,00:00:01,00:00:24,Q Clinical Care #2 (801) replaced by Lillian Maina (025),
+,+254725540135,Lillian Maina (025),answered,00:00:24,00:00:13,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BClinical%2520Care%2520%25232%25253A%252B254725540135%255D_%252B254725540135-025_20210318072355%25281893%2529.wav
+3/18/2021 10:24:49 AM,Dorice Shiundu (012),+254713248463,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 10:25:27 AM,+254713248463,IVR (802),answered,00:00:01,00:00:10,Terminated by +254713248463,
+3/18/2021 10:25:41 AM,Dorice Shiundu (012),+254713248463,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 10:25:48 AM,+254713248463,IVR (802),answered,00:00:00,00:00:08,Terminated by +254713248463,
+3/18/2021 10:25:41 AM,+254721463975,IVR (802),answered,00:00:01,00:00:14,Terminated by +254721463975,
+3/18/2021 10:20:59 AM,Dorice Shiundu (012),+254725106481,answered,00:00:16,00:04:51,Terminated by +254725106481,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-725106481_20210318072115%25281886%2529.wav
+3/18/2021 10:24:37 AM,+254725540135,IVR (802),answered,00:00:00,00:00:14,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254725540135,Q Clinical Care #2 (801),answered,00:00:00,00:01:06,Q Clinical Care #2 (801) replaced by Lillian Maina (025),
+,+254725540135,Lillian Maina (025),answered,00:00:05,00:00:47,Terminated by +254725540135,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BClinical%2520Care%2520%25232%25253A%252B254725540135%255D_%252B254725540135-025_20210318072557%25281895%2529.wav
+3/18/2021 10:26:07 AM,Dorice Shiundu (012),+254725397259,answered,00:00:18,00:00:48,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-725397259_20210318072625%25281901%2529.wav
+3/18/2021 10:27:05 AM,Lillian Maina (025),+254725540135,answered,00:00:11,00:00:17,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-%252B254725540135_20210318072716%25281902%2529.wav
+3/18/2021 10:27:33 AM,Dorice Shiundu (012),+254723308540,unanswered,00:00:26,00:00:00,Failed,
+3/18/2021 10:28:04 AM,Dorice Shiundu (012),+254724636939,unanswered,00:00:29,00:00:00,Failed,
+3/18/2021 10:28:40 AM,Lillian Maina (025),Zamzam Said (102),answered,00:00:04,00:00:28,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-102_20210318072844%25281906%2529.wav
+3/18/2021 10:28:38 AM,Dorice Shiundu (012),+254713541672,answered,00:00:08,00:00:36,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-713541672_20210318072846%25281905%2529.wav
+3/18/2021 10:29:27 AM,Dorice Shiundu (012),+254799690594,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 10:29:45 AM,Dorice Shiundu (012),+254722990725,answered,00:00:05,00:00:23,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-722990725_20210318072950%25281910%2529.wav
+3/18/2021 10:30:11 AM,+254799690594,IVR (802),answered,00:00:00,00:00:08,Terminated by +254799690594,
+3/18/2021 10:28:47 AM,Eunice Mureithi (003),+254718050387,answered,00:00:09,00:01:06,Terminated by Eunice Mureithi (003),https://pendahealth.elastix.com:5001/#/download_record/003%252F%255BEunice%2520Mureithi%255D_003-0718050387_20210318072856%25281907%2529.wav
+3/18/2021 10:30:17 AM,Dorice Shiundu (012),+254713345464,answered,00:00:13,00:00:27,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-713345464_20210318073030%25281912%2529.wav
+3/18/2021 10:31:02 AM,Dorice Shiundu (012),+254702684175,unanswered,00:00:17,00:00:00,Failed,
+3/18/2021 10:29:24 AM,Lillian Maina (025),+254725540135,answered,00:00:09,00:02:04,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-%252B254725540135_20210318072933%25281908%2529.wav
+3/18/2021 10:31:24 AM,Dorice Shiundu (012),+254758084154,answered,00:00:22,00:00:37,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-758084154_20210318073146%25281914%2529.wav
+3/18/2021 10:32:30 AM,Dorice Shiundu (012),+254708809170,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 10:32:49 AM,Dorice Shiundu (012),+254704812846,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 10:33:08 AM,Dorice Shiundu (012),+254713671277,answered,00:00:18,00:01:19,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-713671277_20210318073326%25281917%2529.wav
+3/18/2021 10:34:49 AM,Dorice Shiundu (012),+254717426589,unanswered,00:00:22,00:00:00,Failed,
+3/18/2021 10:35:16 AM,Dorice Shiundu (012),+254710957868,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 10:36:37 AM,Dorice Shiundu (012),+254710957868,unanswered,00:00:19,00:00:00,Failed,
+3/18/2021 10:37:15 AM,Dorice Shiundu (012),11168031,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 10:34:38 AM,Lillian Maina (025),+254721596377,answered,00:00:29,00:02:57,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254721596377_20210318073507%25281918%2529.wav
+3/18/2021 10:38:46 AM,Dorice Shiundu (012),+254791967264,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 10:39:08 AM,Dorice Shiundu (012),+254720341056,answered,00:00:14,00:01:10,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-720341056_20210318073922%25281924%2529.wav
+3/18/2021 10:40:37 AM,Dorice Shiundu (012),+254717549499,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 10:41:00 AM,Dorice Shiundu (012),+254797290309,unanswered,00:00:19,00:00:00,Failed,
+3/18/2021 10:39:26 AM,Lillian Maina (025),+254114396968,answered,00:00:11,00:01:46,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0114396968_20210318073937%25281925%2529.wav
+3/18/2021 10:41:36 AM,Dorice Shiundu (012),+254715171042,unanswered,00:00:24,00:00:00,Failed,
+3/18/2021 10:42:04 AM,Dorice Shiundu (012),+254746477938,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 10:42:33 AM,Dorice Shiundu (012),+254791967264,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 10:42:54 AM,Dorice Shiundu (012),+254723408100,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 10:43:14 AM,Dorice Shiundu (012),+254723408100,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 10:43:33 AM,Dorice Shiundu (012),+254714548477,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 10:43:57 AM,Dorice Shiundu (012),+254712505470,answered,00:00:14,00:00:01,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-712505470_20210318074411%25281934%2529.wav
+3/18/2021 10:44:16 AM,Dorice Shiundu (012),+254700082981,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 10:44:56 AM,Dorice Shiundu (012),+254729769281,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 10:44:35 AM,Dorice Shiundu (012),+254721504348,unanswered,00:00:17,00:00:00,Failed,
+3/18/2021 10:45:16 AM,Dorice Shiundu (012),+254710654949,unanswered,00:00:27,00:00:00,Failed,
+3/18/2021 10:45:49 AM,Dorice Shiundu (012),+254712203359,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 10:46:12 AM,Dorice Shiundu (012),+254746801519,answered,00:00:14,00:00:28,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-746801519_20210318074626%25281940%2529.wav
+3/18/2021 10:47:03 AM,Dorice Shiundu (012),+254719721142,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 10:47:38 AM,Dorice Shiundu (012),+254727673398,answered,00:00:16,00:00:42,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-727673398_20210318074754%25281942%2529.wav
+3/18/2021 10:51:47 AM,Dorice Shiundu (012),+254715575377,answered,00:00:18,00:00:42,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-715575377_20210318075205%25281943%2529.wav
+3/18/2021 10:52:53 AM,Dorice Shiundu (012),+254701805921,unanswered,00:00:17,00:00:00,Failed,
+3/18/2021 10:53:01 AM,+254781655746,IVR (802),answered,00:00:00,00:00:12,Terminated by +254781655746,
+3/18/2021 10:53:24 AM,Dorice Shiundu (012),+254759110952,unanswered,00:00:21,00:00:00,Failed,
+3/18/2021 10:53:50 AM,Dorice Shiundu (012),+254722990725,unanswered,00:00:22,00:00:00,Failed,
+3/18/2021 11:12:53 AM,+254784817856,IVR (802),answered,00:00:00,00:00:13,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254784817856,Q Clinical Care #2 (801),answered,00:00:00,00:00:09,Q Clinical Care #2 (801) replaced by Dorice Shiundu (012),
+,+254784817856,Dorice Shiundu (012),answered,00:00:08,00:00:00,Picked up by Dorice Shiundu (012),
+,+254784817856,Dorice Shiundu (012),answered,00:00:00,00:00:41,Terminated by +254784817856,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-%252B254784817856_20210318081315%25281950%2529.wav
+3/18/2021 11:12:59 AM,+254727588535,IVR (802),answered,00:00:00,00:00:18,IVR (802) replaced by Q Customer Care #1 (800),
+,+254727588535,Q Customer Care #1 (800),answered,00:00:01,00:00:07,Q Customer Care #1 (800) replaced by Zamzam Said (102),
+,+254727588535,Zamzam Said (102),answered,00:00:07,00:01:29,Terminated by +254727588535,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BCustomer%2520Care%2520%25231%25253A%252B254727588535%255D_%252B254727588535-102_20210318081325%25281949%2529.wav
+3/18/2021 11:15:34 AM,Zamzam Said (102),+254727588535,answered,00:00:12,00:00:24,Terminated by +254727588535,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-%252B254727588535_20210318081546%25281951%2529.wav
+3/18/2021 11:25:09 AM,+254797290309,IVR (802),answered,00:00:01,00:00:06,Terminated by +254797290309,
+3/18/2021 11:26:35 AM,+254797290309,IVR (802),answered,00:00:00,00:00:12,Terminated by +254797290309,
+3/18/2021 11:27:09 AM,+254797290309,IVR (802),answered,00:00:01,00:00:15,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254797290309,Q Clinical Care #2 (801),answered,00:00:01,00:00:12,Q Clinical Care #2 (801) replaced by Lillian Maina (025),
+,+254797290309,Lillian Maina (025),answered,00:00:12,00:00:08,Terminated by +254797290309,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BClinical%2520Care%2520%25232%25253A%252B254797290309%255D_%252B254797290309-025_20210318082738%25281954%2529.wav
+3/18/2021 11:28:01 AM,Lillian Maina (025),+254797290309,unanswered,00:00:10,00:00:00,Failed,
+3/18/2021 11:28:14 AM,Lillian Maina (025),+254797290309,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 11:31:57 AM,Dorice Shiundu (012),+254712203359,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 11:32:21 AM,+254710151413,IVR (802),answered,00:00:00,00:00:12,Terminated by +254710151413,
+3/18/2021 11:32:25 AM,Dorice Shiundu (012),+254726377607,unanswered,00:00:17,00:00:00,Failed,
+3/18/2021 11:32:46 AM,Dorice Shiundu (012),+254714581125,answered,00:00:14,00:00:33,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-714581125_20210318083300%25281961%2529.wav
+3/18/2021 11:33:37 AM,Dorice Shiundu (012),+254701182026,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 11:32:32 AM,+254742281187,IVR (802),answered,00:00:00,00:00:16,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254742281187,Q Clinical Care #2 (801),answered,00:00:00,00:00:09,Q Clinical Care #2 (801) replaced by Lillian Maina (025),
+,+254742281187,Lillian Maina (025),answered,00:00:08,00:01:24,Terminated by +254742281187,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BClinical%2520Care%2520%25232%25253A%252B254742281187%255D_%252B254742281187-025_20210318083257%25281960%2529.wav
+3/18/2021 11:33:29 AM,+254710151413,IVR (802),answered,00:00:01,00:00:13,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254710151413,Q Clinical Care #2 (801),answered,00:00:00,00:00:42,Q Clinical Care #2 (801) replaced by Dorice Shiundu (012),
+,+254710151413,Dorice Shiundu (012),answered,00:00:15,00:00:00,Picked up by Dorice Shiundu (012),
+,+254710151413,Dorice Shiundu (012),answered,00:00:00,00:00:19,Dorice Shiundu (012) replaced by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-%252B254710151413_20210318083424%25281964%2529.wav
+,+254710151413,Dorice Shiundu (012),answered,00:00:00,00:00:23,Terminated by +254710151413,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-%252B254710151413_20210318083444%25281962%2529.wav
+3/18/2021 11:35:11 AM,Lillian Maina (025),+254742281187,answered,00:00:05,00:01:40,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-%252B254742281187_20210318083516%25281966%2529.wav
+3/18/2021 11:37:29 AM,Eunice Mureithi (003),+254728389625,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 11:35:22 AM,+254710151413,IVR (802),answered,00:00:01,00:00:06,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254710151413,Q Clinical Care #2 (801),answered,00:00:00,00:00:05,Q Clinical Care #2 (801) replaced by Dorice Shiundu (012),
+,+254710151413,Dorice Shiundu (012),answered,00:00:04,00:00:00,Picked up by Dorice Shiundu (012),
+,+254710151413,Dorice Shiundu (012),answered,00:00:00,00:02:38,Terminated by +254710151413,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-%252B254710151413_20210318083533%25281968%2529.wav
+3/18/2021 11:40:07 AM,Dorice Shiundu (012),+254715171042,answered,00:00:11,00:00:29,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-715171042_20210318084018%25281970%2529.wav
+3/18/2021 11:40:51 AM,Dorice Shiundu (012),+254704711704,unanswered,00:00:36,00:00:00,Failed,
+3/18/2021 11:41:41 AM,Dorice Shiundu (012),+254713970111,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 11:43:14 AM,Dorice Shiundu (012),+254716828719,answered,00:00:16,00:00:40,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-716828719_20210318084330%25281973%2529.wav
+3/18/2021 11:44:22 AM,Dorice Shiundu (012),+254762465532,answered,00:00:14,00:00:29,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-762465532_20210318084436%25281974%2529.wav
+3/18/2021 11:45:10 AM,Dorice Shiundu (012),+254722218922,answered,00:00:31,00:00:01,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-722218922_20210318084541%25281975%2529.wav
+3/18/2021 11:45:49 AM,Dorice Shiundu (012),+254705964751,answered,00:00:21,00:01:23,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-705964751_20210318084610%25281976%2529.wav
+3/18/2021 11:47:42 AM,Dorice Shiundu (012),+254743868051,unanswered,00:00:23,00:00:00,Failed,
+3/18/2021 11:49:22 AM,Lillian Maina (025),+254729929393,answered,00:00:17,00:00:03,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254729929393_20210318084939%25281978%2529.wav
+3/18/2021 11:50:15 AM,Lillian Maina (025),+254729929393,unanswered,00:00:05,00:00:00,Failed,
+3/18/2021 11:49:38 AM,Dorice Shiundu (012),+254729092962,answered,00:00:12,00:00:41,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-729092962_20210318084950%25281979%2529.wav
+3/18/2021 11:50:36 AM,Dorice Shiundu (012),+254726287900,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 11:50:56 AM,Dorice Shiundu (012),+254702623454,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 11:51:19 AM,Dorice Shiundu (012),+254721937304,answered,00:00:13,00:00:27,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-721937304_20210318085132%25281984%2529.wav
+3/18/2021 11:52:03 AM,Dorice Shiundu (012),+254721690873,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 11:51:02 AM,Lillian Maina (025),+254726039628,answered,00:00:17,00:01:43,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0726039628_20210318085119%25281983%2529.wav
+3/18/2021 11:54:24 AM,Dorice Shiundu (012),+254721690873,unanswered,00:00:23,00:00:00,Failed,
+3/18/2021 11:53:17 AM,+254723847574,IVR (802),answered,00:00:01,00:00:14,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254723847574,Q Clinical Care #2 (801),answered,00:00:01,00:00:05,Q Clinical Care #2 (801) replaced by Lillian Maina (025),
+,+254723847574,Lillian Maina (025),answered,00:00:05,00:00:00,Picked up by Lillian Maina (025),
+,+254723847574,Lillian Maina (025),answered,00:00:00,00:02:39,Terminated by +254723847574,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-%252B254723847574_20210318085338%25281987%2529.wav
+3/18/2021 11:55:10 AM,Dorice Shiundu (012),+254728543322,answered,00:00:18,00:01:07,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-728543322_20210318085528%25281989%2529.wav
+3/18/2021 11:56:40 AM,Dorice Shiundu (012),+254711406981,answered,00:00:12,00:00:08,Terminated by +254711406981,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-711406981_20210318085652%25281990%2529.wav
+3/18/2021 11:57:08 AM,Dorice Shiundu (012),+254721776866,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 11:57:29 AM,Dorice Shiundu (012),+254711863744,answered,00:00:09,00:00:47,Terminated by +254711863744,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-711863744_20210318085738%25281992%2529.wav
+3/18/2021 11:58:33 AM,Dorice Shiundu (012),+254720207502,answered,00:00:15,00:01:20,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-720207502_20210318085848%25281993%2529.wav
+3/18/2021 12:00:12 PM,Dorice Shiundu (012),+254723853805,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 12:00:34 PM,Dorice Shiundu (012),+254710930743,unanswered,00:00:23,00:00:00,Failed,
+3/18/2021 12:00:54 PM,Lillian Maina (025),+254723847574,answered,00:00:06,00:00:32,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-%252B254723847574_20210318090100%25281996%2529.wav
+3/18/2021 12:01:11 PM,Linda Kobia (008),+254743972480,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 12:01:02 PM,Dorice Shiundu (012),+254720036268,answered,00:00:11,00:00:42,Terminated by +254720036268,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-720036268_20210318090113%25281997%2529.wav
+3/18/2021 12:02:04 PM,Lillian Maina (025),+254740218311,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 12:02:00 PM,Linda Kobia (008),+254798128857,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 12:02:42 PM,Linda Kobia (008),+254706072187,unanswered,00:00:06,00:00:00,Failed,
+3/18/2021 12:02:31 PM,Lillian Maina (025),+254748105273,answered,00:00:22,00:00:13,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0748105273_20210318090253%25282001%2529.wav
+3/18/2021 12:03:30 PM,Dorice Shiundu (012),+254703595036,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 12:04:32 PM,+254783469258,IVR (802),answered,00:00:00,00:00:01,Terminated by +254783469258,
+3/18/2021 12:04:06 PM,Lillian Maina (025),+254704971692,unanswered,00:00:35,00:00:00,Failed,
+3/18/2021 12:03:51 PM,Dorice Shiundu (012),+254722807252,answered,00:00:20,00:00:46,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-722807252_20210318090411%25282005%2529.wav
+3/18/2021 12:04:53 PM,Lillian Maina (025),+254710774673,unanswered,00:00:05,00:00:00,Failed,
+3/18/2021 12:03:08 PM,Linda Kobia (008),+254727875393,answered,00:00:16,00:01:35,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254727875393_20210318090324%25282003%2529.wav
+3/18/2021 12:05:23 PM,Lillian Maina (025),+254728735508,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 12:05:02 PM,Dorice Shiundu (012),+254712814584,answered,00:00:06,00:00:41,Terminated by +254712814584,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-712814584_20210318090508%25282009%2529.wav
+3/18/2021 12:05:58 PM,Lillian Maina (025),+254723955627,unanswered,00:00:29,00:00:00,Failed,
+3/18/2021 12:06:22 PM,Dorice Shiundu (012),+254716803716,answered,00:00:17,00:01:02,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-716803716_20210318090639%25282012%2529.wav
+3/18/2021 12:07:44 PM,Dorice Shiundu (012),+254715116268,unanswered,00:00:30,00:00:00,Failed,
+3/18/2021 12:07:32 PM,Lillian Maina (025),+254720280816,answered,00:00:09,00:00:49,Terminated by +254720280816,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0720280816_20210318090741%25282013%2529.wav
+3/18/2021 12:08:27 PM,Dorice Shiundu (012),+254794657238,answered,00:00:18,00:00:36,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-794657238_20210318090845%25282015%2529.wav
+3/18/2021 12:08:41 PM,Linda Kobia (008),+254729066908,answered,00:00:09,00:00:32,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254729066908_20210318090850%25282016%2529.wav
+3/18/2021 12:10:09 PM,+254798128857,IVR (802),answered,00:00:00,00:00:16,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254798128857,Q Clinical Care #2 (801),unanswered,00:00:00,00:00:09,Terminated by +254798128857,
+3/18/2021 12:09:00 PM,Lillian Maina (025),+254700274667,answered,00:00:20,00:01:29,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0700274667_20210318090920%25282017%2529.wav
+3/18/2021 12:10:54 PM,+254798128857,IVR (802),answered,00:00:00,00:00:53,Terminated by +254798128857,
+3/18/2021 12:10:40 PM,Linda Kobia (008),+254740126769,answered,00:00:29,00:01:02,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254740126769_20210318091109%25282019%2529.wav
+3/18/2021 12:11:21 PM,Dorice Shiundu (012),+254798128857,answered,00:00:05,00:00:57,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-%252B254798128857_20210318091126%25282021%2529.wav
+3/18/2021 12:11:35 PM,Lillian Maina (025),+254729710397,answered,00:00:09,00:01:37,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0729710397_20210318091144%25282022%2529.wav
+3/18/2021 12:13:55 PM,Zamzam Said (102),+254793711138,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 12:14:52 PM,Zamzam Said (102),+254705872936,unanswered,00:00:21,00:00:00,Failed,
+3/18/2021 12:12:28 PM,+254779537955,IVR (802),answered,00:00:00,00:00:16,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254779537955,Q Clinical Care #2 (801),answered,00:00:01,00:00:06,Q Clinical Care #2 (801) replaced by Dorice Shiundu (012),
+,+254779537955,Dorice Shiundu (012),answered,00:00:06,00:00:00,Picked up by Dorice Shiundu (012),
+,+254779537955,Dorice Shiundu (012),answered,00:00:00,00:02:50,Terminated by 779537955,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-779537955_20210318091251%25282024%2529.wav
+3/18/2021 12:14:53 PM,Lillian Maina (025),+254720371172,answered,00:00:11,00:01:47,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0720371172_20210318091504%25282027%2529.wav
+3/18/2021 12:15:24 PM,Zamzam Said (102),+254741952768,answered,00:00:08,00:01:34,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254741952768_20210318091532%25282028%2529.wav
+3/18/2021 12:18:09 PM,Zamzam Said (102),+254721264766,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 12:17:09 PM,+254710208330,IVR (802),answered,00:00:00,00:00:13,IVR (802) replaced by Q Customer Care #1 (800),
+,+254710208330,Q Customer Care #1 (800),answered,00:00:01,00:00:12,Q Customer Care #1 (800) replaced by Linda Kobia (008),
+,+254710208330,Linda Kobia (008),answered,00:00:12,00:00:00,Picked up by Linda Kobia (008),
+,+254710208330,Linda Kobia (008),answered,00:00:00,00:01:22,Terminated by +254710208330,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-%252B254710208330_20210318091735%25282030%2529.wav
+3/18/2021 12:18:52 PM,Zamzam Said (102),+254707376660,answered,00:00:18,00:01:03,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254707376660_20210318091910%25282032%2529.wav
+3/18/2021 12:21:07 PM,Zamzam Said (102),+254722431837,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 12:21:09 PM,Linda Kobia (008),+254707092491,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 12:21:51 PM,Linda Kobia (008),+254797461794,unanswered,00:00:06,00:00:00,Failed,
+3/18/2021 12:22:05 PM,Linda Kobia (008),+254714949571,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 12:21:25 PM,Zamzam Said (102),+254704975275,answered,00:00:09,00:01:14,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254704975275_20210318092134%25282035%2529.wav
+3/18/2021 12:23:50 PM,Zamzam Said (102),+254758197151,answered,00:00:18,00:00:39,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254758197151_20210318092408%25282039%2529.wav
+3/18/2021 12:23:07 PM,Lillian Maina (025),+254701621473,answered,00:00:25,00:02:07,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0701621473_20210318092332%25282038%2529.wav
+3/18/2021 12:25:50 PM,+254793711138,IVR (802),answered,00:00:00,00:00:11,Terminated by +254793711138,
+3/18/2021 12:26:11 PM,Zamzam Said (102),+254715571582,answered,00:00:11,00:01:22,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254715571582_20210318092622%25282041%2529.wav
+3/18/2021 12:27:18 PM,Lillian Maina (025),+254724935979,answered,00:00:15,00:00:43,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0724935979_20210318092733%25282042%2529.wav
+3/18/2021 12:29:49 PM,Lillian Maina (025),+254741139162,unanswered,00:00:05,00:00:00,Failed,
+3/18/2021 12:30:40 PM,+254748900131,IVR (802),answered,00:00:01,00:00:05,Terminated by +254748900131,
+3/18/2021 12:29:25 PM,Zamzam Said (102),+254729253585,answered,00:00:21,00:01:49,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254729253585_20210318092946%25282043%2529.wav
+3/18/2021 12:31:46 PM,Lillian Maina (025),+254721779446,unanswered,00:00:05,00:00:00,Failed,
+3/18/2021 12:33:50 PM,Lillian Maina (025),+254710774673,unanswered,00:00:05,00:00:00,Failed,
+3/18/2021 12:33:28 PM,Linda Kobia (008),+254720828741,answered,00:00:18,00:00:24,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254720828741_20210318093346%25282047%2529.wav
+3/18/2021 12:34:24 PM,Linda Kobia (008),+254708464983,answered,00:00:17,00:00:13,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254708464983_20210318093441%25282051%2529.wav
+3/18/2021 12:34:57 PM,Linda Kobia (008),Dorice Shiundu (012),answered,00:00:16,00:00:05,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-012_20210318093513%25282052%2529.wav
+3/18/2021 12:33:32 PM,Zamzam Said (102),+254721848576,answered,00:00:10,00:01:40,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254721848576_20210318093342%25282048%2529.wav
+3/18/2021 12:35:41 PM,Linda Kobia (008),+254724513297,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 12:34:22 PM,Lillian Maina (025),+254706299034,answered,00:00:09,00:02:29,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0706299034_20210318093431%25282050%2529.wav
+3/18/2021 12:36:23 PM,Linda Kobia (008),+254708464983,answered,00:00:11,00:00:59,Terminated by 254708464983,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254708464983_20210318093634%25282055%2529.wav
+3/18/2021 12:36:11 PM,Zamzam Said (102),+254759738016,answered,00:00:21,00:01:28,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254759738016_20210318093632%25282054%2529.wav
+3/18/2021 12:37:15 PM,Lillian Maina (025),+254792716873,answered,00:00:10,00:00:46,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0792716873_20210318093725%25282056%2529.wav
+3/18/2021 12:42:21 PM,anonymous,IVR (802),answered,00:00:00,00:00:03,Terminated by anonymous,
+3/18/2021 12:57:40 PM,+254716512454,IVR (802),answered,00:00:01,00:00:15,Terminated by +254716512454,
+3/18/2021 12:58:09 PM,+254716512454,IVR (802),answered,00:00:00,00:00:13,Terminated by +254716512454,
+3/18/2021 12:56:35 PM,+202041266,IVR (802),answered,00:00:00,00:00:15,IVR (802) replaced by Q Customer Care #1 (800),
+,+202041266,Q Customer Care #1 (800),answered,00:00:01,00:00:08,Q Customer Care #1 (800) replaced by Zamzam Said (102),
+,+202041266,Zamzam Said (102),answered,00:00:08,00:01:39,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BCustomer%2520Care%2520%25231%25253A202041266%255D_202041266-102_20210318095659%25282058%2529.wav
+3/18/2021 12:59:33 PM,+254700885561,IVR (802),answered,00:00:01,00:00:24,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254700885561,Q Clinical Care #2 (801),answered,00:00:01,00:00:19,Q Clinical Care #2 (801) replaced by Lillian Maina (025),
+,+254700885561,Lillian Maina (025),answered,00:00:19,00:00:24,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BClinical%2520Care%2520%25232%25253A%252B254700885561%255D_%252B254700885561-025_20210318100018%25282061%2529.wav
+3/18/2021 1:00:51 PM,+254700885561,IVR (802),answered,00:00:00,00:00:09,IVR (802) replaced by Q Customer Care #1 (800),
+,+254700885561,Q Customer Care #1 (800),answered,00:00:00,00:00:08,Q Customer Care #1 (800) replaced by Linda Kobia (008),
+,+254700885561,Linda Kobia (008),answered,00:00:08,00:00:00,Picked up by Linda Kobia (008),
+,+254700885561,Linda Kobia (008),answered,00:00:00,00:01:50,Terminated by +254700885561,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-%252B254700885561_20210318100108%25282063%2529.wav
+3/18/2021 1:24:32 PM,+254707092491,IVR (802),answered,00:00:01,00:00:07,Terminated by +254707092491,
+3/18/2021 1:27:55 PM,Abraham (000),+254700472965,answered,00:00:18,00:00:26,Terminated by Abraham (000),
+3/18/2021 1:30:31 PM,+254794795487,IVR (802),answered,00:00:00,00:00:15,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254794795487,Q Clinical Care #2 (801),answered,00:00:00,00:00:09,Q Clinical Care #2 (801) replaced by Dorice Shiundu (012),
+,+254794795487,Dorice Shiundu (012),answered,00:00:09,00:01:23,Terminated by +254794795487,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BClinical%2520Care%2520%25232%25253A%252B254794795487%255D_%252B254794795487-012_20210318103055%25282066%2529.wav
+3/18/2021 1:34:48 PM,+254720000535,IVR (802),answered,00:00:01,00:00:14,Terminated by +254720000535,
+3/18/2021 1:34:08 PM,Zamzam Said (102),+254721824834,answered,00:00:10,00:00:42,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254721824834_20210318103418%25282067%2529.wav
+3/18/2021 1:37:29 PM,+254720396578,IVR (802),answered,00:00:00,00:00:03,Terminated by +254720396578,
+3/18/2021 1:37:00 PM,Zamzam Said (102),+254746171323,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 1:37:27 PM,Linda Kobia (008),+254712007890,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 1:38:10 PM,Linda Kobia (008),+254727268652,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 1:38:39 PM,Lillian Maina (025),+254722811633,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 1:38:58 PM,Linda Kobia (008),+254712652595,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 1:37:46 PM,Zamzam Said (102),+254733527322,answered,00:00:24,00:01:26,Terminated by 254733527322,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254733527322_20210318103810%25282072%2529.wav
+3/18/2021 1:40:29 PM,Dorice Shiundu (012),+254713874685,unanswered,00:00:17,00:00:00,Failed,
+3/18/2021 1:39:20 PM,Linda Kobia (008),+254724616984,answered,00:00:18,00:01:10,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254724616984_20210318103938%25282076%2529.wav
+3/18/2021 1:40:51 PM,Dorice Shiundu (012),+254790548564,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 1:40:37 PM,Lillian Maina (025),+254796346729,answered,00:00:20,00:00:51,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0796346729_20210318104057%25282079%2529.wav
+3/18/2021 1:41:59 PM,Dorice Shiundu (012),+2547018456460,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 1:40:32 PM,Zamzam Said (102),+254742656536,answered,00:00:12,00:01:32,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254742656536_20210318104044%25282078%2529.wav
+3/18/2021 1:42:19 PM,Dorice Shiundu (012),+254723698450,unanswered,00:00:17,00:00:00,Failed,
+3/18/2021 1:42:45 PM,Zamzam Said (102),+254798395543,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 1:42:23 PM,Lillian Maina (025),+254799187132,answered,00:00:23,00:00:53,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0799187132_20210318104246%25282084%2529.wav
+3/18/2021 1:42:41 PM,Dorice Shiundu (012),+254713877258,answered,00:00:22,00:00:36,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-713877258_20210318104303%25282085%2529.wav
+3/18/2021 1:43:40 PM,Zamzam Said (102),+254727470476,answered,00:00:13,00:01:22,Terminated by 254727470476,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254727470476_20210318104353%25282087%2529.wav
+3/18/2021 1:41:36 PM,Dorice Shiundu (012),+254725674343,answered,00:00:17,00:03:26,Terminated by +254725674343,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-725674343_20210318104153%25282081%2529.wav
+3/18/2021 1:44:44 PM,Dorice Shiundu (012),+254723153398,answered,00:00:20,00:00:17,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-723153398_20210318104504%25282088%2529.wav
+3/18/2021 1:45:26 PM,Dorice Shiundu (012),+254725626047,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 1:45:49 PM,Dorice Shiundu (012),+254724309375,unanswered,00:00:21,00:00:00,Failed,
+3/18/2021 1:46:16 PM,Dorice Shiundu (012),+254757195869,answered,00:00:14,00:00:36,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-757195869_20210318104630%25282091%2529.wav
+3/18/2021 1:47:11 PM,Dorice Shiundu (012),+254724775013,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 1:47:28 PM,Dorice Shiundu (012),+254746881029,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 1:46:53 PM,Lillian Maina (025),+254716373414,answered,00:00:18,00:00:47,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254716373414_20210318104711%25282092%2529.wav
+3/18/2021 1:47:33 PM,Zamzam Said (102),+254729210080,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 1:48:14 PM,+254113794498,IVR (802),answered,00:00:00,00:00:07,Terminated by +254113794498,
+3/18/2021 1:47:48 PM,Dorice Shiundu (012),+254712642607,answered,00:00:15,00:00:52,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-712642607_20210318104803%25282096%2529.wav
+3/18/2021 1:48:14 PM,Zamzam Said (102),+254702215319,answered,00:00:16,00:00:43,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254702215319_20210318104830%25282099%2529.wav
+3/18/2021 1:49:01 PM,Dorice Shiundu (012),+254729496201,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 1:48:13 PM,Lillian Maina (025),+254722139248,answered,00:00:10,00:01:04,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254722139248_20210318104823%25282097%2529.wav
+3/18/2021 1:49:25 PM,Dorice Shiundu (012),+254701577574,answered,00:00:10,00:00:16,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-701577574_20210318104935%25282102%2529.wav
+3/18/2021 1:49:35 PM,Lillian Maina (025),+254700378613,answered,00:00:13,00:00:39,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254700378613_20210318104948%25282103%2529.wav
+3/18/2021 1:49:55 PM,Dorice Shiundu (012),+254720121384,answered,00:00:11,00:00:23,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-720121384_20210318105006%25282104%2529.wav
+3/18/2021 1:50:33 PM,Dorice Shiundu (012),+254722328439,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 1:50:50 PM,Dorice Shiundu (012),+254723871093,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 1:49:21 PM,Zamzam Said (102),+254729439362,answered,00:00:11,00:01:40,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254729439362_20210318104932%25282101%2529.wav
+3/18/2021 1:51:07 PM,Dorice Shiundu (012),+254725312168,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 1:51:23 PM,Dorice Shiundu (012),+254711433917,unanswered,00:00:10,00:00:00,Failed,
+3/18/2021 1:50:50 PM,Lillian Maina (025),+254708382208,answered,00:00:20,00:00:36,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254708382208_20210318105110%25282107%2529.wav
+3/18/2021 1:51:40 PM,Dorice Shiundu (012),+254700512559,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 1:51:56 PM,Dorice Shiundu (012),+254721265838,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 1:51:51 PM,Lillian Maina (025),+254722595169,unanswered,00:00:31,00:00:00,Failed,
+3/18/2021 1:52:19 PM,Dorice Shiundu (012),+254727301651,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 1:52:41 PM,Dorice Shiundu (012),+254719779499,unanswered,00:00:25,00:00:00,Failed,
+3/18/2021 1:52:31 PM,Lillian Maina (025),+254728224144,answered,00:00:17,00:00:36,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254728224144_20210318105248%25282114%2529.wav
+3/18/2021 1:53:11 PM,Dorice Shiundu (012),+254712675710,answered,00:00:18,00:00:21,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-712675710_20210318105329%25282116%2529.wav
+3/18/2021 1:53:54 PM,Dorice Shiundu (012),+254720970517,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 1:54:14 PM,Dorice Shiundu (012),+254718667218,answered,00:00:08,00:00:24,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-718667218_20210318105422%25282119%2529.wav
+3/18/2021 1:53:48 PM,Lillian Maina (025),+254715747091,answered,00:00:20,00:01:00,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254715747091_20210318105408%25282117%2529.wav
+3/18/2021 1:54:51 PM,Dorice Shiundu (012),+254703990333,unanswered,00:00:19,00:00:00,Failed,
+3/18/2021 1:55:14 PM,Dorice Shiundu (012),+254770371823,unanswered,00:00:02,00:00:00,Failed,
+3/18/2021 1:55:27 PM,+254703990333,IVR (802),answered,00:00:00,00:00:16,Terminated by +254703990333,
+3/18/2021 1:55:35 PM,Dorice Shiundu (012),+254728109755,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 1:55:08 PM,+254718731551,IVR (802),answered,00:00:00,00:00:12,IVR (802) replaced by Q Customer Care #1 (800),
+,+254718731551,Q Customer Care #1 (800),answered,00:00:00,00:00:08,Q Customer Care #1 (800) replaced by Zamzam Said (102),
+,+254718731551,Zamzam Said (102),answered,00:00:08,00:00:26,Terminated by +254718731551,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BCustomer%2520Care%2520%25231%25253A%252B254718731551%255D_%252B254718731551-102_20210318105528%25282121%2529.wav
+3/18/2021 1:55:56 PM,Dorice Shiundu (012),+2547272981150,unanswered,00:00:03,00:00:00,Failed,
+3/18/2021 1:55:13 PM,Lillian Maina (025),+254725780478,answered,00:00:15,00:00:41,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254725780478_20210318105528%25282122%2529.wav
+3/18/2021 1:56:05 PM,Dorice Shiundu (012),+254727298115,answered,00:00:16,00:00:03,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-727298115_20210318105621%25282127%2529.wav
+3/18/2021 1:56:29 PM,Dorice Shiundu (012),+254703595036,unanswered,00:00:09,00:00:00,Failed,
+3/18/2021 1:56:14 PM,Lillian Maina (025),+254722874631,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 1:56:41 PM,+254727301651,IVR (802),answered,00:00:00,00:00:13,Terminated by +254727301651,
+3/18/2021 1:56:57 PM,+254722595169,IVR (802),answered,00:00:00,00:00:09,Terminated by +254722595169,
+3/18/2021 1:57:11 PM,+254722595169,IVR (802),answered,00:00:00,00:00:06,Terminated by +254722595169,
+3/18/2021 1:56:57 PM,Dorice Shiundu (012),+254727138098,answered,00:00:17,00:00:16,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-727138098_20210318105714%25282132%2529.wav
+3/18/2021 1:56:57 PM,Lillian Maina (025),+254725655616,answered,00:00:17,00:00:44,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254725655616_20210318105714%25282131%2529.wav
+3/18/2021 1:58:39 PM,Linda Kobia (008),+254011330096,unanswered,00:00:01,00:00:00,Failed,
+3/18/2021 1:57:42 PM,Dorice Shiundu (012),+254722555619,answered,00:00:17,00:00:48,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-722555619_20210318105759%25282135%2529.wav
+3/18/2021 1:58:32 PM,Lillian Maina (025),+254702152923,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 1:58:52 PM,Dorice Shiundu (012),+254721542994,answered,00:00:12,00:00:59,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-721542994_20210318105904%25282138%2529.wav
+3/18/2021 1:59:23 PM,Lillian Maina (025),+254708521630,answered,00:00:14,00:00:40,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254708521630_20210318105937%25282140%2529.wav
+3/18/2021 2:00:08 PM,Dorice Shiundu (012),+254701736606,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 1:59:16 PM,+254728109755,IVR (802),answered,00:00:00,00:00:12,IVR (802) replaced by Q Customer Care #1 (800),
+,+254728109755,Q Customer Care #1 (800),answered,00:00:01,00:00:03,Q Customer Care #1 (800) replaced by Linda Kobia (008),
+,+254728109755,Linda Kobia (008),answered,00:00:03,00:00:51,Terminated by +254728109755,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BCustomer%2520Care%2520%25231%25253A%252B254728109755%255D_%252B254728109755-008_20210318105932%25282139%2529.wav
+3/18/2021 2:00:23 PM,Lillian Maina (025),+254757481262,unanswered,00:00:05,00:00:00,Failed,
+3/18/2021 2:00:25 PM,Dorice Shiundu (012),+254713481986,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 2:00:42 PM,Dorice Shiundu (012),+254724634556,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 2:01:02 PM,Dorice Shiundu (012),+254705363843,unanswered,00:00:25,00:00:00,Failed,
+3/18/2021 2:01:25 PM,Linda Kobia (008),+254792591177,unanswered,00:00:04,00:00:00,Failed,
+3/18/2021 2:01:44 PM,+254792591177,IVR (802),answered,00:00:00,00:00:07,Terminated by +254792591177,
+3/18/2021 2:01:35 PM,Dorice Shiundu (012),+254721874929,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 2:00:51 PM,Lillian Maina (025),+254707647314,answered,00:00:24,00:00:44,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254707647314_20210318110115%25282145%2529.wav
+3/18/2021 2:02:00 PM,Dorice Shiundu (012),+254712675710,answered,00:00:14,00:00:16,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-712675710_20210318110214%25282151%2529.wav
+3/18/2021 2:02:04 PM,Lillian Maina (025),+254711365417,unanswered,00:00:35,00:00:00,Failed,
+3/18/2021 2:01:39 PM,Linda Kobia (008),+254746529933,answered,00:00:13,00:00:55,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254746529933_20210318110152%25282149%2529.wav
+3/18/2021 2:02:36 PM,Dorice Shiundu (012),+254729436739,answered,00:00:14,00:00:24,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-729436739_20210318110250%25282153%2529.wav
+3/18/2021 2:03:20 PM,Dorice Shiundu (012),+254721849204,answered,00:00:10,00:00:08,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-721849204_20210318110330%25282154%2529.wav
+3/18/2021 2:03:42 PM,Dorice Shiundu (012),+254710747010,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 2:03:58 PM,Dorice Shiundu (012),+254720246854,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 2:04:17 PM,Dorice Shiundu (012),+254727500447,answered,00:00:10,00:00:03,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-727500447_20210318110427%25282157%2529.wav
+3/18/2021 2:04:34 PM,Dorice Shiundu (012),+254780670332,unanswered,00:00:08,00:00:00,Failed,
+3/18/2021 2:05:22 PM,Dorice Shiundu (012),+254706236519,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 2:04:34 PM,Lillian Maina (025),+254710154340,answered,00:00:28,00:01:06,Terminated by 254710154340,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254710154340_20210318110502%25282159%2529.wav
+3/18/2021 2:05:43 PM,Dorice Shiundu (012),+254710660487,answered,00:00:15,00:00:38,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-710660487_20210318110558%25282161%2529.wav
+3/18/2021 2:06:40 PM,Dorice Shiundu (012),+254791255343,answered,00:00:10,00:00:36,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-791255343_20210318110650%25282163%2529.wav
+3/18/2021 2:07:31 PM,Dorice Shiundu (012),+254721944674,unanswered,00:00:17,00:00:00,Failed,
+3/18/2021 2:07:53 PM,Dorice Shiundu (012),+254706877046,answered,00:00:14,00:00:12,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-706877046_20210318110807%25282165%2529.wav
+3/18/2021 2:08:29 PM,Dorice Shiundu (012),+254729058028,unanswered,00:00:22,00:00:00,Failed,
+3/18/2021 2:06:13 PM,Lillian Maina (025),+254707070582,answered,00:00:22,00:02:33,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254707070582_20210318110635%25282162%2529.wav
+3/18/2021 2:09:12 PM,Lillian Maina (025),+254721682645,unanswered,00:00:06,00:00:00,Failed,
+3/18/2021 2:09:18 PM,+254724634556,IVR (802),answered,00:00:01,00:00:07,Terminated by +254724634556,
+3/18/2021 2:08:56 PM,Dorice Shiundu (012),+254718676695,answered,00:00:12,00:00:36,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-718676695_20210318110908%25282167%2529.wav
+3/18/2021 2:09:39 PM,+254724634556,IVR (802),answered,00:00:00,00:00:09,Terminated by +254724634556,
+3/18/2021 2:09:57 PM,+254724634556,IVR (802),answered,00:00:01,00:00:12,Terminated by +254724634556,
+3/18/2021 2:09:52 PM,Dorice Shiundu (012),+254722162995,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 2:09:48 PM,+254700048838,IVR (802),answered,00:00:00,00:00:13,IVR (802) replaced by Q Customer Care #1 (800),
+,+254700048838,Q Customer Care #1 (800),answered,00:00:00,00:00:11,Q Customer Care #1 (800) replaced by Zamzam Said (102),
+,+254700048838,Zamzam Said (102),answered,00:00:11,00:00:35,Terminated by +254700048838,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BCustomer%2520Care%2520%25231%25253A%252B254700048838%255D_%252B254700048838-102_20210318111012%25282172%2529.wav
+3/18/2021 2:10:15 PM,Dorice Shiundu (012),+254726613649,answered,00:00:08,00:00:32,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-726613649_20210318111023%25282175%2529.wav
+3/18/2021 2:09:37 PM,Lillian Maina (025),+254714637031,answered,00:00:17,00:02:04,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254714637031_20210318110954%25282170%2529.wav
+3/18/2021 2:12:56 PM,Dorice Shiundu (012),+254723544238,unanswered,00:00:08,00:00:00,Failed,
+3/18/2021 2:13:23 PM,Dorice Shiundu (012),+254718676695,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 2:17:19 PM,Dorice Shiundu (012),+254725913798,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 2:17:43 PM,Dorice Shiundu (012),+254710238237,answered,00:00:09,00:00:11,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-710238237_20210318111752%25282179%2529.wav
+3/18/2021 2:18:09 PM,Dorice Shiundu (012),+254794454776,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 2:18:32 PM,Dorice Shiundu (012),+254723122210,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 2:18:50 PM,Dorice Shiundu (012),+254708732307,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 2:19:09 PM,Dorice Shiundu (012),+254714356158,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 2:19:21 PM,+254708732307,IVR (802),answered,00:00:00,00:00:11,Terminated by +254708732307,
+3/18/2021 2:19:27 PM,Dorice Shiundu (012),+254729470102,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 2:19:43 PM,Dorice Shiundu (012),+254722546472,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 2:20:00 PM,Dorice Shiundu (012),+254710213541,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 2:20:20 PM,Dorice Shiundu (012),+254717508599,answered,00:00:11,00:00:36,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-717508599_20210318112031%25282189%2529.wav
+3/18/2021 2:20:43 PM,+254722285340,IVR (802),answered,00:00:00,00:00:18,IVR (802) replaced by Q Customer Care #1 (800),
+,+254722285340,Q Customer Care #1 (800),unanswered,00:00:01,00:00:00,Terminated by +254722285340,
+3/18/2021 2:21:11 PM,Dorice Shiundu (012),+254722983481,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 2:20:07 PM,+254722975807,IVR (802),answered,00:00:00,00:00:14,IVR (802) replaced by Q Customer Care #1 (800),
+,+254722975807,Q Customer Care #1 (800),answered,00:00:00,00:00:09,Q Customer Care #1 (800) replaced by Zamzam Said (102),
+,+254722975807,Zamzam Said (102),answered,00:00:08,00:00:58,Terminated by +254722975807,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BCustomer%2520Care%2520%25231%25253A%252B254722975807%255D_%252B254722975807-102_20210318112030%25282188%2529.wav
+3/18/2021 2:21:33 PM,Dorice Shiundu (012),+254704945586,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 2:22:14 PM,+254725445420,IVR (802),answered,00:00:01,00:00:10,Terminated by +254725445420,
+3/18/2021 2:22:32 PM,+254725445420,IVR (802),answered,00:00:00,00:00:14,Terminated by +254725445420,
+3/18/2021 2:21:51 PM,Dorice Shiundu (012),+254713507913,answered,00:00:11,00:00:46,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-713507913_20210318112202%25282193%2529.wav
+3/18/2021 2:22:53 PM,Dorice Shiundu (012),+254721907765,answered,00:00:08,00:00:37,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-721907765_20210318112301%25282196%2529.wav
+3/18/2021 2:23:43 PM,Dorice Shiundu (012),+254726749702,unanswered,00:00:17,00:00:00,Failed,
+3/18/2021 2:24:05 PM,Dorice Shiundu (012),+254727346901,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 2:24:43 PM,Dorice Shiundu (012),+254724399811,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 2:25:04 PM,Dorice Shiundu (012),+254702328396,answered,00:00:08,00:01:24,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-702328396_20210318112512%25282200%2529.wav
+3/18/2021 2:26:42 PM,Dorice Shiundu (012),+254717031506,answered,00:00:27,00:00:30,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-717031506_20210318112709%25282202%2529.wav
+3/18/2021 2:27:52 PM,Dorice Shiundu (012),+254723599565,answered,00:00:15,00:00:01,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-723599565_20210318112807%25282203%2529.wav
+3/18/2021 2:26:12 PM,Lillian Maina (025),+254727870711,answered,00:00:29,00:02:18,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254727870711_20210318112641%25282201%2529.wav
+3/18/2021 2:29:31 PM,Lillian Maina (025),+254723650095,unanswered,00:00:03,00:00:00,Failed,
+3/18/2021 2:30:39 PM,Dorice Shiundu (012),+254723291166,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 2:29:59 PM,Lillian Maina (025),+254726676080,answered,00:00:15,00:01:01,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254726676080_20210318113014%25282205%2529.wav
+3/18/2021 2:31:04 PM,Dorice Shiundu (012),+254708001289,answered,00:00:12,00:00:46,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-708001289_20210318113116%25282207%2529.wav
+3/18/2021 2:31:30 PM,Lillian Maina (025),+254727207939,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 2:32:07 PM,Dorice Shiundu (012),+254715161679,unanswered,00:00:19,00:00:00,Failed,
+3/18/2021 2:32:30 PM,Dorice Shiundu (012),+254792273533,answered,00:00:12,00:00:27,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-792273533_20210318113242%25282210%2529.wav
+3/18/2021 2:33:14 PM,Dorice Shiundu (012),+254704259720,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 2:32:56 PM,Lillian Maina (025),+254711338703,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 2:33:32 PM,Dorice Shiundu (012),+254723009414,answered,00:00:07,00:00:24,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-723009414_20210318113339%25282213%2529.wav
+3/18/2021 2:34:08 PM,Dorice Shiundu (012),+254722226576,answered,00:00:20,00:00:02,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-722226576_20210318113428%25282214%2529.wav
+3/18/2021 2:34:23 PM,+254701736606,IVR (802),answered,00:00:01,00:00:09,Terminated by +254701736606,
+3/18/2021 2:34:34 PM,Dorice Shiundu (012),+254729014383,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 2:35:03 PM,Dorice Shiundu (012),+254718415978,answered,00:00:06,00:00:26,Terminated by +254718415978,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-718415978_20210318113509%25282217%2529.wav
+3/18/2021 2:35:24 PM,Lillian Maina (025),+254728803081,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 2:35:43 PM,+254723971137,IVR (802),answered,00:00:00,00:00:13,Terminated by +254723971137,
+3/18/2021 2:35:45 PM,Dorice Shiundu (012),+254701855707,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 2:36:01 PM,+254723971137,IVR (802),answered,00:00:00,00:00:06,Terminated by +254723971137,
+3/18/2021 2:36:05 PM,Dorice Shiundu (012),+254710238237,answered,00:00:06,00:00:37,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-710238237_20210318113611%25282222%2529.wav
+3/18/2021 2:36:37 PM,Lillian Maina (025),+254713333852,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 2:36:53 PM,Dorice Shiundu (012),+254745653264,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 2:37:16 PM,Dorice Shiundu (012),+254792120566,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 2:37:22 PM,Lillian Maina (025),+254723943711,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 2:37:36 PM,Dorice Shiundu (012),+254719801491,answered,00:00:16,00:00:30,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-719801491_20210318113752%25282227%2529.wav
+3/18/2021 2:38:26 PM,Dorice Shiundu (012),+254710599141,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 2:38:45 PM,Dorice Shiundu (012),+254728642977,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 2:39:08 PM,Dorice Shiundu (012),+254713507913,answered,00:00:12,00:00:35,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-713507913_20210318113920%25282230%2529.wav
+3/18/2021 2:40:19 PM,Linda Kobia (008),+254728249756,unanswered,00:00:04,00:00:00,Failed,
+3/18/2021 2:39:25 PM,Lillian Maina (025),+254706075996,answered,00:00:35,00:00:53,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254706075996_20210318114000%25282231%2529.wav
+3/18/2021 2:41:00 PM,Dorice Shiundu (012),+254715625664,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 2:40:35 PM,Linda Kobia (008),+254722662588,answered,00:00:09,00:01:07,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254722662588_20210318114044%25282233%2529.wav
+3/18/2021 2:40:58 PM,Lillian Maina (025),+254711602750,answered,00:00:14,00:00:41,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254711602750_20210318114112%25282234%2529.wav
+3/18/2021 2:41:27 PM,Dorice Shiundu (012),+254725087769,answered,00:00:16,00:00:38,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-725087769_20210318114143%25282236%2529.wav
+3/18/2021 2:42:36 PM,Dorice Shiundu (012),+254723291166,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 2:42:57 PM,Dorice Shiundu (012),+254715625664,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 2:41:58 PM,Lillian Maina (025),+254796690300,answered,00:00:08,00:01:09,Terminated by 254796690300,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254796690300_20210318114206%25282237%2529.wav
+3/18/2021 2:42:52 PM,Linda Kobia (008),+254722267011,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 2:43:14 PM,Dorice Shiundu (012),+254717430094,answered,00:00:07,00:00:17,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-717430094_20210318114321%25282242%2529.wav
+3/18/2021 2:43:14 PM,anonymous,IVR (802),answered,00:00:00,00:00:25,Terminated by anonymous,
+3/18/2021 2:43:43 PM,Dorice Shiundu (012),+254790533354,unanswered,00:00:17,00:00:00,Failed,
+3/18/2021 2:44:05 PM,Dorice Shiundu (012),+254707411084,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 2:44:26 PM,Dorice Shiundu (012),+254713413626,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 2:43:48 PM,Linda Kobia (008),+254738752689,answered,00:00:12,00:00:57,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254738752689_20210318114400%25282244%2529.wav
+3/18/2021 2:44:55 PM,+254732610913,IVR (802),answered,00:00:00,00:00:09,Terminated by +254732610913,
+3/18/2021 2:44:51 PM,Dorice Shiundu (012),+254724762379,unanswered,00:00:19,00:00:00,Failed,
+3/18/2021 2:44:50 PM,Lillian Maina (025),+254725588649,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 2:45:16 PM,Dorice Shiundu (012),+254773080497,answered,00:00:14,00:00:05,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-773080497_20210318114530%25282250%2529.wav
+3/18/2021 2:45:37 PM,+254724762379,IVR (802),answered,00:00:00,00:00:09,Terminated by +254724762379,
+3/18/2021 2:45:32 PM,Lillian Maina (025),+254706286839,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 2:45:44 PM,Dorice Shiundu (012),+254742100898,answered,00:00:08,00:00:53,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-742100898_20210318114552%25282253%2529.wav
+3/18/2021 2:46:51 PM,Dorice Shiundu (012),+254711125860,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 2:46:32 PM,Lillian Maina (025),+254796357044,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 2:47:19 PM,Dorice Shiundu (012),+254723291166,answered,00:00:09,00:00:37,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-723291166_20210318114728%25282257%2529.wav
+3/18/2021 2:47:04 PM,+254701943524,IVR (802),answered,00:00:00,00:00:14,IVR (802) replaced by Q Customer Care #1 (800),
+,+254701943524,Q Customer Care #1 (800),answered,00:00:00,00:00:04,Q Customer Care #1 (800) replaced by Linda Kobia (008),
+,+254701943524,Linda Kobia (008),answered,00:00:04,00:00:47,Terminated by +254701943524,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BCustomer%2520Care%2520%25231%25253A%252B254701943524%255D_%252B254701943524-008_20210318114722%25282256%2529.wav
+3/18/2021 2:48:11 PM,+254708732307,IVR (802),answered,00:00:01,00:00:08,Terminated by +254708732307,
+3/18/2021 2:48:09 PM,Dorice Shiundu (012),+254721417269,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 2:47:34 PM,Lillian Maina (025),+254722160257,answered,00:00:10,00:00:43,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254722160257_20210318114744%25282258%2529.wav
+3/18/2021 2:48:32 PM,+254724762379,IVR (802),answered,00:00:00,00:00:16,Terminated by +254724762379,
+3/18/2021 2:48:37 PM,Dorice Shiundu (012),+254720172094,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 2:48:58 PM,Dorice Shiundu (012),+254707042896,answered,00:00:09,00:00:29,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-707042896_20210318114907%25282264%2529.wav
+3/18/2021 2:49:40 PM,+254725588649,IVR (802),answered,00:00:00,00:00:04,Terminated by +254725588649,
+3/18/2021 2:49:29 PM,Linda Kobia (008),+254705741406,unanswered,00:00:30,00:00:00,Failed,
+3/18/2021 2:48:39 PM,Lillian Maina (025),+254727955065,answered,00:00:17,00:01:22,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254727955065_20210318114856%25282263%2529.wav
+3/18/2021 2:49:48 PM,Dorice Shiundu (012),+254722707074,answered,00:00:08,00:01:10,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-722707074_20210318114956%25282267%2529.wav
+3/18/2021 2:51:25 PM,+254718667218,IVR (802),answered,00:00:01,00:00:09,Terminated by +254718667218,
+3/18/2021 2:51:17 PM,Dorice Shiundu (012),+254727367277,answered,00:00:09,00:00:12,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-727367277_20210318115126%25282269%2529.wav
+3/18/2021 2:50:25 PM,Lillian Maina (025),+254707955681,answered,00:00:17,00:01:12,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254707955681_20210318115042%25282268%2529.wav
+3/18/2021 2:51:51 PM,+254727207939,IVR (802),answered,00:00:00,00:00:14,Terminated by +254727207939,
+3/18/2021 2:51:42 PM,Dorice Shiundu (012),+254727346901,answered,00:00:10,00:00:21,Terminated by +254727346901,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-727346901_20210318115152%25282272%2529.wav
+3/18/2021 2:52:10 PM,+254727207939,IVR (802),answered,00:00:01,00:00:13,Terminated by +254727207939,
+3/18/2021 2:51:20 PM,Linda Kobia (008),+254704329547,answered,00:00:09,00:01:12,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254704329547_20210318115129%25282270%2529.wav
+3/18/2021 2:52:39 PM,Lillian Maina (025),+254721213878,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 2:52:19 PM,Dorice Shiundu (012),+254726749702,answered,00:00:16,00:00:46,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-726749702_20210318115235%25282275%2529.wav
+3/18/2021 2:53:26 PM,Lillian Maina (025),+254705735635,unanswered,00:00:31,00:00:00,Failed,
+3/18/2021 2:54:51 PM,Dorice Shiundu (012),+254725734275,unanswered,00:00:17,00:00:00,Failed,
+3/18/2021 2:54:16 PM,Lillian Maina (025),+254725672437,answered,00:00:10,00:00:45,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254725672437_20210318115426%25282278%2529.wav
+3/18/2021 2:55:30 PM,Lillian Maina (025),+254713259789,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 2:55:39 PM,Linda Kobia (008),+254708552675,answered,00:00:26,00:00:56,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254708552675_20210318115605%25282281%2529.wav
+3/18/2021 2:56:25 PM,Lillian Maina (025),+254713907412,answered,00:00:27,00:00:41,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254713907412_20210318115652%25282282%2529.wav
+3/18/2021 2:57:48 PM,Linda Kobia (008),+25472600948,unanswered,00:00:03,00:00:00,Failed,
+3/18/2021 2:57:35 PM,Dorice Shiundu (012),+254721758754,unanswered,00:00:19,00:00:00,Failed,
+3/18/2021 2:57:59 PM,Dorice Shiundu (012),+254712623940,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 2:58:16 PM,Dorice Shiundu (012),+254710238237,answered,00:00:09,00:00:18,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-710238237_20210318115825%25282288%2529.wav
+3/18/2021 2:58:48 PM,Dorice Shiundu (012),+254725350902,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 2:57:45 PM,Lillian Maina (025),+254728436261,answered,00:00:28,00:00:58,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254728436261_20210318115813%25282284%2529.wav
+3/18/2021 2:58:42 PM,Eunice Mureithi (003),+254728389625,answered,00:00:11,00:00:27,Eunice Mureithi (003) replaced by Eunice Mureithi (003),https://pendahealth.elastix.com:5001/#/download_record/003%252F%255BEunice%2520Mureithi%255D_003-%252B254728389625_20210318115853%25282289%2529.wav
+,+254728389625,Eunice Mureithi (003),answered,00:00:00,00:00:13,Terminated by +254728389625,https://pendahealth.elastix.com:5001/#/download_record/003%252F%255BEunice%2520Mureithi%255D_003-%252B254728389625_20210318115920%25282289%2529.wav
+3/18/2021 2:57:58 PM,Linda Kobia (008),+254705437379,answered,00:00:22,00:01:18,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254705437379_20210318115820%25282286%2529.wav
+3/18/2021 2:59:39 PM,+254100951221,IVR (802),answered,00:00:00,00:00:06,Terminated by +254100951221,
+3/18/2021 2:59:16 PM,Lillian Maina (025),+254728906749,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 2:59:06 PM,Dorice Shiundu (012),+254729417801,answered,00:00:14,00:00:32,Terminated by +254729417801,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-729417801_20210318115920%25282291%2529.wav
+3/18/2021 3:00:01 PM,Dorice Shiundu (012),+254725060152,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:00:17 PM,+254720982294,IVR (802),answered,00:00:01,00:00:07,Terminated by +254720982294,
+3/18/2021 3:00:20 PM,Dorice Shiundu (012),+254724700019,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:00:39 PM,Dorice Shiundu (012),+254797588703,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 3:01:04 PM,+254725060152,IVR (802),answered,00:00:01,00:00:06,Terminated by +254725060152,
+3/18/2021 3:00:56 PM,+254720982294,IVR (802),answered,00:00:00,00:00:27,Terminated by +254720982294,
+3/18/2021 3:00:57 PM,Dorice Shiundu (012),+254720203280,answered,00:00:07,00:00:46,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-720203280_20210318120104%25282302%2529.wav
+3/18/2021 3:00:32 PM,Linda Kobia (008),+254719556642,answered,00:00:32,00:01:21,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254719556642_20210318120104%25282298%2529.wav
+3/18/2021 3:00:37 PM,Lillian Maina (025),+254796608144,answered,00:00:12,00:01:52,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254796608144_20210318120049%25282299%2529.wav
+3/18/2021 3:01:55 PM,Dorice Shiundu (012),+254723041089,answered,00:00:08,00:00:57,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-723041089_20210318120203%25282304%2529.wav
+3/18/2021 3:03:03 PM,Lillian Maina (025),+254710253800,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 3:04:16 PM,Linda Kobia (008),+254786510760,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 3:04:11 PM,Dorice Shiundu (012),+254723009414,answered,00:00:08,00:00:35,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-723009414_20210318120419%25282306%2529.wav
+3/18/2021 3:05:00 PM,+254791754774,IVR (802),answered,00:00:00,00:00:11,Terminated by +254791754774,
+3/18/2021 3:04:59 PM,Dorice Shiundu (012),+254715961146,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 3:05:17 PM,Dorice Shiundu (012),+254724700019,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:04:14 PM,Lillian Maina (025),+254718365137,answered,00:00:17,00:01:09,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254718365137_20210318120431%25282307%2529.wav
+3/18/2021 3:04:55 PM,Linda Kobia (008),+254722872450,answered,00:00:10,00:00:50,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254722872450_20210318120505%25282309%2529.wav
+3/18/2021 3:05:46 PM,Dorice Shiundu (012),+254790241314,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 3:06:02 PM,Dorice Shiundu (012),+254701528331,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 3:06:17 PM,Dorice Shiundu (012),+254707042896,answered,00:00:13,00:00:20,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-707042896_20210318120630%25282316%2529.wav
+3/18/2021 3:06:55 PM,Dorice Shiundu (012),+254726270664,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:07:05 PM,+254701855707,IVR (802),answered,00:00:00,00:00:07,Terminated by +254701855707,
+3/18/2021 3:07:12 PM,Dorice Shiundu (012),+254715126114,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:07:28 PM,Dorice Shiundu (012),+254742611665,unanswered,00:00:10,00:00:00,Failed,
+3/18/2021 3:07:11 PM,Linda Kobia (008),+254725234318,unanswered,00:00:31,00:00:00,Failed,
+3/18/2021 3:06:13 PM,Lillian Maina (025),+254728252844,answered,00:00:21,00:02:19,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254728252844_20210318120634%25282315%2529.wav
+3/18/2021 3:08:36 PM,Dorice Shiundu (012),+254712962198,unanswered,00:00:26,00:00:00,Failed,
+3/18/2021 3:09:07 PM,Dorice Shiundu (012),+254724954567,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:09:26 PM,Dorice Shiundu (012),+254727622839,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 3:09:42 PM,Dorice Shiundu (012),+254720009484,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:10:01 PM,Dorice Shiundu (012),+254726705720,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:10:20 PM,Dorice Shiundu (012),+254790458132,answered,00:00:09,00:00:42,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-790458132_20210318121029%25282327%2529.wav
+3/18/2021 3:11:15 PM,Dorice Shiundu (012),+254725578045,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 3:11:35 PM,Dorice Shiundu (012),+254708648324,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:11:58 PM,+254727622839,IVR (802),answered,00:00:01,00:00:11,Terminated by +254727622839,
+3/18/2021 3:11:54 PM,Dorice Shiundu (012),+254740631319,unanswered,00:00:21,00:00:00,Failed,
+3/18/2021 3:12:19 PM,Dorice Shiundu (012),+254729663955,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 3:12:40 PM,Dorice Shiundu (012),+254798703399,answered,00:00:09,00:00:31,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-798703399_20210318121249%25282333%2529.wav
+3/18/2021 3:13:25 PM,Dorice Shiundu (012),+254712778275,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:13:42 PM,Dorice Shiundu (012),+254722530677,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:14:01 PM,Dorice Shiundu (012),+25471455930,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 3:14:26 PM,+254729663955,IVR (802),answered,00:00:00,00:00:10,Terminated by +254729663955,
+3/18/2021 3:14:17 PM,Dorice Shiundu (012),+254717162023,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 3:14:42 PM,Dorice Shiundu (012),+254714404133,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 3:15:01 PM,Dorice Shiundu (012),+254721701348,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 3:15:16 PM,Dorice Shiundu (012),+254721789785,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 3:15:39 PM,Dorice Shiundu (012),+254719139876,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 3:15:55 PM,Dorice Shiundu (012),+254719139876,unanswered,00:00:05,00:00:00,Failed,
+3/18/2021 3:15:49 PM,+254721701348,IVR (802),answered,00:00:00,00:00:12,Terminated by +254721701348,
+3/18/2021 3:15:16 PM,+254100714325,IVR (802),answered,00:00:00,00:00:12,IVR (802) replaced by Q Customer Care #1 (800),
+,+254100714325,Q Customer Care #1 (800),answered,00:00:00,00:00:03,Q Customer Care #1 (800) replaced by Zamzam Said (102),
+,+254100714325,Zamzam Said (102),answered,00:00:03,00:00:31,Terminated by +254100714325,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BCustomer%2520Care%2520%25231%25253A%252B254100714325%255D_%252B254100714325-102_20210318121531%25282342%2529.wav
+3/18/2021 3:16:34 PM,Zamzam Said (102),+254100714325,unanswered,00:00:00,00:00:00,Target not found,
+3/18/2021 3:12:45 PM,Lillian Maina (025),+254706685645,answered,00:00:19,00:03:32,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254706685645_20210318121304%25282334%2529.wav
+3/18/2021 3:16:43 PM,Zamzam Said (102),+254100714325,unanswered,00:00:00,00:00:00,Target not found,
+3/18/2021 3:16:47 PM,Zamzam Said (102),+254100714325,unanswered,00:00:00,00:00:00,Target not found,
+3/18/2021 3:16:53 PM,Zamzam Said (102),+254100714325,unanswered,00:00:00,00:00:00,Target not found,
+3/18/2021 3:16:59 PM,Zamzam Said (102),+254100714325,unanswered,00:00:00,00:00:00,Target not found,
+3/18/2021 3:16:22 PM,Dorice Shiundu (012),+254705383076,answered,00:00:15,00:00:23,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-705383076_20210318121637%25282347%2529.wav
+3/18/2021 3:17:06 PM,Dorice Shiundu (012),+254710511014,unanswered,00:00:21,00:00:00,Failed,
+3/18/2021 3:17:17 PM,+254102361165,IVR (802),answered,00:00:00,00:00:14,Terminated by +254102361165,
+3/18/2021 3:17:07 PM,Zamzam Said (102),+254726352543,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 3:17:32 PM,Dorice Shiundu (012),+254724405161,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:17:50 PM,Dorice Shiundu (012),+254729719941,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 3:18:08 PM,Dorice Shiundu (012),+254713230799,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:18:28 PM,Dorice Shiundu (012),+254790587734,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 3:18:47 PM,Dorice Shiundu (012),+254723972342,answered,00:00:16,00:00:04,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-723972342_20210318121903%25282360%2529.wav
+3/18/2021 3:19:15 PM,Dorice Shiundu (012),+254722965816,answered,00:00:08,00:00:36,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-722965816_20210318121923%25282361%2529.wav
+3/18/2021 3:20:26 PM,Dorice Shiundu (012),+254799189085,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:21:01 PM,Dorice Shiundu (012),+254742903857,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 3:21:26 PM,Dorice Shiundu (012),+254704708043,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 3:21:45 PM,Dorice Shiundu (012),+254729333184,answered,00:00:13,00:00:02,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-729333184_20210318122158%25282366%2529.wav
+3/18/2021 3:22:10 PM,Dorice Shiundu (012),+254720687089,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 3:22:18 PM,+254729333184,IVR (802),answered,00:00:00,00:00:13,Terminated by +254729333184,
+3/18/2021 3:22:35 PM,Dorice Shiundu (012),+254712779778,answered,00:00:15,00:00:01,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-712779778_20210318122250%25282369%2529.wav
+3/18/2021 3:22:58 PM,+254729719941,IVR (802),answered,00:00:00,00:00:08,Terminated by +254729719941,
+3/18/2021 3:22:57 PM,Dorice Shiundu (012),+254714843420,unanswered,00:00:10,00:00:00,Failed,
+3/18/2021 3:23:05 PM,+254729333184,IVR (802),answered,00:00:00,00:00:07,Terminated by +254729333184,
+3/18/2021 3:23:21 PM,Dorice Shiundu (012),+254725042985,answered,00:00:15,00:00:30,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-725042985_20210318122336%25282373%2529.wav
+3/18/2021 3:24:28 PM,+254726352543,IVR (802),answered,00:00:00,00:00:00,Terminated by +254726352543,
+3/18/2021 3:24:15 PM,Dorice Shiundu (012),+254759311655,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:24:35 PM,Dorice Shiundu (012),+254721553581,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 3:20:55 PM,+254710654949,IVR (802),answered,00:00:01,00:00:28,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254710654949,Q Clinical Care #2 (801),answered,00:00:01,00:00:39,Q Clinical Care #2 (801) replaced by Lillian Maina (025),
+,+254710654949,Lillian Maina (025),answered,00:00:09,00:02:57,Terminated by +254710654949,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BClinical%2520Care%2520%25232%25253A%252B254710654949%255D_%252B254710654949-025_20210318122204%25282363%2529.wav
+3/18/2021 3:25:00 PM,Dorice Shiundu (012),+254722626383,unanswered,00:00:21,00:00:00,Failed,
+3/18/2021 3:25:28 PM,Dorice Shiundu (012),+254748403165,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:25:49 PM,Dorice Shiundu (012),+254724485025,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 3:26:38 PM,+254721553581,IVR (802),answered,00:00:00,00:00:05,Terminated by +254721553581,
+3/18/2021 3:26:09 PM,Dorice Shiundu (012),+254724485025,answered,00:00:08,00:00:30,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-724485025_20210318122617%25282380%2529.wav
+3/18/2021 3:26:51 PM,Dorice Shiundu (012),+254799514688,answered,00:00:13,00:00:41,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-799514688_20210318122704%25282382%2529.wav
+3/18/2021 3:27:50 PM,Dorice Shiundu (012),+254729748772,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:28:14 PM,Dorice Shiundu (012),+254704919532,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 3:28:37 PM,Dorice Shiundu (012),+254703122095,answered,00:00:10,00:01:00,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-703122095_20210318122847%25282385%2529.wav
+3/18/2021 3:29:07 PM,+254723573721,IVR (802),answered,00:00:01,00:00:57,Terminated by +254723573721,
+3/18/2021 3:30:14 PM,Zamzam Said (102),+254726352543,unanswered,00:00:01,00:00:00,Failed,
+3/18/2021 3:30:01 PM,Dorice Shiundu (012),+254712282341,answered,00:00:06,00:00:20,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-712282341_20210318123007%25282387%2529.wav
+3/18/2021 3:30:40 PM,Dorice Shiundu (012),+254722948238,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:30:35 PM,Zamzam Said (102),+254701789203,answered,00:00:17,00:00:08,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254701789203_20210318123052%25282389%2529.wav
+3/18/2021 3:30:58 PM,Dorice Shiundu (012),+254715016451,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 3:31:19 PM,Zamzam Said (102),+254757754035,unanswered,00:00:06,00:00:00,Failed,
+3/18/2021 3:31:15 PM,Dorice Shiundu (012),+254724952216,unanswered,00:00:21,00:00:00,Failed,
+3/18/2021 3:31:40 PM,Dorice Shiundu (012),+254706279592,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 3:31:41 PM,Zamzam Said (102),+254715843995,unanswered,00:00:31,00:00:00,Failed,
+3/18/2021 3:31:58 PM,Dorice Shiundu (012),+254712962198,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 3:32:34 PM,Dorice Shiundu (012),+254721752975,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:32:28 PM,Zamzam Said (102),+254729270248,unanswered,00:00:26,00:00:00,Failed,
+3/18/2021 3:33:10 PM,Dorice Shiundu (012),+254700850479,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 3:33:29 PM,Dorice Shiundu (012),+254717162023,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 3:33:51 PM,Dorice Shiundu (012),+254707958395,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:34:10 PM,Dorice Shiundu (012),+254724954567,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 3:33:01 PM,Zamzam Said (102),+254722855853,answered,00:00:15,00:01:23,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254722855853_20210318123316%25282399%2529.wav
+3/18/2021 3:34:26 PM,Dorice Shiundu (012),+254725578045,unanswered,00:00:23,00:00:00,Failed,
+3/18/2021 3:34:53 PM,Dorice Shiundu (012),+254710761976,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 3:35:13 PM,Dorice Shiundu (012),+254721402681,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:35:33 PM,Dorice Shiundu (012),+254701024811,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 3:35:51 PM,Dorice Shiundu (012),+254714523271,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 3:36:10 PM,Dorice Shiundu (012),+254745666934,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:36:30 PM,Dorice Shiundu (012),+254726800503,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 3:36:48 PM,Dorice Shiundu (012),+254726761731,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:37:05 PM,Dorice Shiundu (012),+254713316850,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:37:24 PM,Dorice Shiundu (012),+254724645241,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 3:37:27 PM,Zamzam Said (102),+254715652046,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 3:37:40 PM,Dorice Shiundu (012),+254711388846,unanswered,00:00:24,00:00:00,Failed,
+3/18/2021 3:38:03 PM,Zamzam Said (102),+254795636472,unanswered,00:00:31,00:00:00,Failed,
+3/18/2021 3:38:22 PM,Dorice Shiundu (012),+254724743444,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 3:38:19 PM,+254724645241,IVR (802),answered,00:00:01,00:00:24,Terminated by +254724645241,
+3/18/2021 3:38:41 PM,Dorice Shiundu (012),+254721276905,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 3:36:35 PM,Linda Kobia (008),+254719395134,answered,00:00:14,00:02:27,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254719395134_20210318123649%25282411%2529.wav
+3/18/2021 3:39:01 PM,Dorice Shiundu (012),+254727689879,answered,00:00:12,00:00:45,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-727689879_20210318123913%25282422%2529.wav
+3/18/2021 3:38:44 PM,Zamzam Said (102),+254727775384,answered,00:00:13,00:01:03,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254727775384_20210318123857%25282421%2529.wav
+3/18/2021 3:40:02 PM,+254700850479,IVR (802),answered,00:00:00,00:00:14,Terminated by +254700850479,
+3/18/2021 3:40:02 PM,Dorice Shiundu (012),+254705521737,unanswered,00:00:21,00:00:00,Failed,
+3/18/2021 3:40:21 PM,+254700850479,IVR (802),answered,00:00:01,00:00:11,Terminated by +254700850479,
+3/18/2021 3:40:28 PM,Dorice Shiundu (012),+254717750392,unanswered,00:00:17,00:00:00,Failed,
+3/18/2021 3:40:49 PM,Dorice Shiundu (012),+254791237962,unanswered,00:00:19,00:00:00,Failed,
+3/18/2021 3:41:00 PM,+254717750392,IVR (802),answered,00:00:00,00:00:11,Terminated by +254717750392,
+3/18/2021 3:41:13 PM,Dorice Shiundu (012),+254788680604,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:41:31 PM,Dorice Shiundu (012),+254710409521,answered,00:00:14,00:00:01,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-710409521_20210318124145%25282432%2529.wav
+3/18/2021 3:42:05 PM,+254710409521,IVR (802),answered,00:00:00,00:00:05,Terminated by +254710409521,
+3/18/2021 3:42:08 PM,Dorice Shiundu (012),+254714638701,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 3:42:25 PM,+254797588703,IVR (802),answered,00:00:00,00:00:15,Terminated by +254797588703,
+3/18/2021 3:41:09 PM,Zamzam Said (102),+254741558491,answered,00:00:08,00:01:25,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254741558491_20210318124117%25282430%2529.wav
+3/18/2021 3:42:46 PM,+254797588703,IVR (802),answered,00:00:00,00:00:05,Terminated by +254797588703,
+3/18/2021 3:42:28 PM,Dorice Shiundu (012),+254723155333,answered,00:00:15,00:00:19,Terminated by +254723155333,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-723155333_20210318124243%25282436%2529.wav
+3/18/2021 3:43:08 PM,Dorice Shiundu (012),+254721308834,unanswered,00:00:25,00:00:00,Failed,
+3/18/2021 3:43:20 PM,+254715016451,IVR (802),answered,00:00:00,00:00:17,Terminated by +254715016451,
+3/18/2021 3:43:04 PM,Zamzam Said (102),+254717508599,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 3:43:13 PM,+254710409521,IVR (802),answered,00:00:00,00:00:30,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254710409521,Q Clinical Care #2 (801),unanswered,00:00:01,00:00:00,Terminated by +254710409521,
+3/18/2021 3:43:50 PM,Zamzam Said (102),+254723033084,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:44:04 PM,+254715652046,IVR (802),answered,00:00:01,00:00:02,Terminated by +254715652046,
+3/18/2021 3:43:37 PM,Dorice Shiundu (012),+254726423847,unanswered,00:00:30,00:00:00,Failed,
+3/18/2021 3:39:49 PM,Lillian Maina (025),+254713568917,answered,00:00:09,00:04:58,Terminated by 254713568917,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254713568917_20210318123958%25282423%2529.wav
+3/18/2021 3:45:23 PM,+254748900131,IVR (802),answered,00:00:00,00:00:15,IVR (802) replaced by Q Customer Care #1 (800),
+,+254748900131,Q Customer Care #1 (800),answered,00:00:00,00:00:03,Q Customer Care #1 (800) replaced by Linda Kobia (008),
+,+254748900131,Linda Kobia (008),answered,00:00:03,00:00:34,Terminated by +254748900131,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BCustomer%2520Care%2520%25231%25253A%252B254748900131%255D_%252B254748900131-008_20210318124541%25282446%2529.wav
+3/18/2021 3:46:05 PM,Dorice Shiundu (012),+254733920300,unanswered,00:00:24,00:00:00,Failed,
+3/18/2021 3:46:35 PM,Dorice Shiundu (012),+254700668823,unanswered,00:00:01,00:00:00,Failed,
+3/18/2021 3:44:20 PM,Zamzam Said (102),+254728556539,answered,00:00:13,00:02:38,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254728556539_20210318124433%25282445%2529.wav
+3/18/2021 3:45:41 PM,+254100714325,IVR (802),answered,00:00:00,00:00:11,IVR (802) replaced by Q Customer Care #1 (800),
+,+254100714325,Q Customer Care #1 (800),answered,00:00:00,00:00:27,Q Customer Care #1 (800) replaced by Linda Kobia (008),
+,+254100714325,Linda Kobia (008),answered,00:00:02,00:00:53,Terminated by +254100714325,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BCustomer%2520Care%2520%25231%25253A%252B254100714325%255D_%252B254100714325-008_20210318124619%25282447%2529.wav
+3/18/2021 3:47:04 PM,Dorice Shiundu (012),+254717462566,answered,00:00:08,00:00:34,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-717462566_20210318124712%25282451%2529.wav
+3/18/2021 3:47:51 PM,Dorice Shiundu (012),+254741305363,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:47:24 PM,Linda Kobia (008),+254748900131,answered,00:00:10,00:00:47,Terminated by +254748900131,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-%252B254748900131_20210318124734%25282452%2529.wav
+3/18/2021 3:48:10 PM,Dorice Shiundu (012),+254722289771,answered,00:00:15,00:00:01,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-722289771_20210318124825%25282454%2529.wav
+3/18/2021 3:48:50 PM,+254722289771,IVR (802),answered,00:00:01,00:00:05,Terminated by +254722289771,
+3/18/2021 3:48:34 PM,Zamzam Said (102),+254702991501,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 3:48:35 PM,Dorice Shiundu (012),+254722158653,answered,00:00:07,00:01:00,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-722158653_20210318124842%25282456%2529.wav
+3/18/2021 3:49:36 PM,+254702991501,IVR (802),answered,00:00:00,00:00:16,Terminated by +254702991501,
+3/18/2021 3:50:00 PM,+254702991501,IVR (802),answered,00:00:00,00:00:17,Terminated by +254702991501,
+3/18/2021 3:49:48 PM,Dorice Shiundu (012),+254726786921,answered,00:00:15,00:00:18,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-726786921_20210318125003%25282460%2529.wav
+3/18/2021 3:46:57 PM,Lillian Maina (025),+254725336684,answered,00:00:11,00:03:16,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254725336684_20210318124708%25282450%2529.wav
+3/18/2021 3:50:16 PM,+254717508599,IVR (802),answered,00:00:00,00:00:09,Terminated by +254717508599,
+3/18/2021 3:49:15 PM,Zamzam Said (102),+254728146627,answered,00:00:22,00:01:00,Terminated by 254728146627,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254728146627_20210318124937%25282458%2529.wav
+3/18/2021 3:50:42 PM,+254722289771,IVR (802),answered,00:00:00,00:00:05,Terminated by +254722289771,
+3/18/2021 3:50:40 PM,+254721789785,IVR (802),answered,00:00:01,00:00:13,Terminated by +254721789785,
+3/18/2021 3:50:26 PM,Dorice Shiundu (012),+254728768538,unanswered,00:00:30,00:00:00,Failed,
+3/18/2021 3:51:00 PM,+254721789785,IVR (802),answered,00:00:00,00:00:08,Terminated by +254721789785,
+3/18/2021 3:51:11 PM,Dorice Shiundu (012),+254727562300,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 3:51:35 PM,Dorice Shiundu (012),+254719793986,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:51:23 PM,Zamzam Said (102),+254721714223,unanswered,00:00:36,00:00:00,Failed,
+3/18/2021 3:51:53 PM,Dorice Shiundu (012),+25470633876,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:52:11 PM,Dorice Shiundu (012),+254707170800,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 3:52:28 PM,Dorice Shiundu (012),+254716291578,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 3:51:23 PM,Lillian Maina (025),+254710409521,answered,00:00:09,00:01:16,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-%252B254710409521_20210318125132%25282469%2529.wav
+3/18/2021 3:53:09 PM,Dorice Shiundu (012),+254723155333,answered,00:00:21,00:00:01,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-723155333_20210318125330%25282475%2529.wav
+3/18/2021 3:53:53 PM,+254707170800,IVR (802),answered,00:00:01,00:00:05,Terminated by +254707170800,
+3/18/2021 3:53:36 PM,Dorice Shiundu (012),+254706774816,answered,00:00:08,00:00:31,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-706774816_20210318125344%25282477%2529.wav
+3/18/2021 3:54:19 PM,Dorice Shiundu (012),+254722544056,unanswered,00:00:17,00:00:00,Failed,
+3/18/2021 3:53:16 PM,Zamzam Said (102),+254726330781,answered,00:00:12,00:01:11,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254726330781_20210318125328%25282476%2529.wav
+3/18/2021 3:53:05 PM,Lillian Maina (025),+254726876906,answered,00:00:16,00:01:51,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254726876906_20210318125321%25282474%2529.wav
+3/18/2021 3:55:03 PM,Dorice Shiundu (012),+254798657885,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 3:55:25 PM,Lillian Maina (025),+254704483807,unanswered,00:00:07,00:00:00,Failed,
+3/18/2021 3:55:23 PM,Dorice Shiundu (012),+254724645241,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:55:40 PM,Dorice Shiundu (012),+254712778275,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 3:56:09 PM,+254712778275,IVR (802),answered,00:00:00,00:00:19,Terminated by +254712778275,
+3/18/2021 3:56:09 PM,Lillian Maina (025),+254721292380,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 3:56:00 PM,Dorice Shiundu (012),+254704302712,answered,00:00:11,00:00:28,Terminated by +254704302712,https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-704302712_20210318125611%25282484%2529.wav
+3/18/2021 3:56:28 PM,+254708648324,IVR (802),answered,00:00:00,00:00:18,Terminated by +254708648324,
+3/18/2021 3:56:45 PM,Dorice Shiundu (012),+254722468838,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:57:03 PM,Dorice Shiundu (012),+254723136681,unanswered,00:00:14,00:00:00,Failed,
+3/18/2021 3:57:30 PM,+254721292380,IVR (802),answered,00:00:00,00:00:08,Terminated by +254721292380,
+3/18/2021 3:57:21 PM,Dorice Shiundu (012),+254714500621,unanswered,00:00:23,00:00:00,Failed,
+3/18/2021 3:57:48 PM,Dorice Shiundu (012),+254720485352,answered,00:00:14,00:00:00,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-720485352_20210318125802%25282492%2529.wav
+3/18/2021 3:58:06 PM,Dorice Shiundu (012),+254715169229,answered,00:00:13,00:00:01,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-715169229_20210318125819%25282494%2529.wav
+3/18/2021 3:58:05 PM,Lillian Maina (025),+254795219154,answered,00:00:14,00:00:15,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254795219154_20210318125819%25282493%2529.wav
+3/18/2021 3:58:24 PM,Dorice Shiundu (012),+254724861934,unanswered,00:00:11,00:00:00,Failed,
+3/18/2021 3:58:41 PM,Dorice Shiundu (012),+254745638230,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:58:50 PM,+254798657885,IVR (802),answered,00:00:00,00:00:07,Terminated by +254798657885,
+3/18/2021 3:59:06 PM,+254798657885,IVR (802),answered,00:00:00,00:00:04,Terminated by +254798657885,
+3/18/2021 3:58:55 PM,Lillian Maina (025),+254713189278,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 3:58:58 PM,Dorice Shiundu (012),+254724638293,answered,00:00:15,00:00:26,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-724638293_20210318125913%25282500%2529.wav
+3/18/2021 3:59:44 PM,Dorice Shiundu (012),+254720009484,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 4:00:02 PM,Dorice Shiundu (012),+254722102720,unanswered,00:00:13,00:00:00,Failed,
+3/18/2021 3:59:54 PM,+254723955627,IVR (802),answered,00:00:01,00:00:20,Terminated by +254723955627,
+3/18/2021 3:59:25 PM,+254704302712,IVR (802),answered,00:00:00,00:00:15,IVR (802) replaced by Q Customer Care #1 (800),
+,+254704302712,Q Customer Care #1 (800),unanswered,00:00:00,00:00:37,Terminated by +254704302712,
+3/18/2021 4:00:45 PM,+254724861934,IVR (802),answered,00:00:01,00:00:09,Terminated by +254724861934,
+3/18/2021 4:00:49 PM,+254104402720,IVR (802),answered,00:00:00,00:00:12,Terminated by +254104402720,
+3/18/2021 4:00:19 PM,Dorice Shiundu (012),+254721148833,answered,00:00:12,00:00:38,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-721148833_20210318130031%25282507%2529.wav
+3/18/2021 4:01:14 PM,Dorice Shiundu (012),+254746628605,unanswered,00:00:12,00:00:00,Failed,
+3/18/2021 4:01:30 PM,Dorice Shiundu (012),+254707376900,unanswered,00:00:09,00:00:00,Failed,
+3/18/2021 3:59:41 PM,Zamzam Said (102),+254718146850,answered,00:00:18,00:01:41,Terminated by 254718146850,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254718146850_20210318125959%25282503%2529.wav
+3/18/2021 4:01:54 PM,+254707376900,IVR (802),answered,00:00:00,00:00:02,Terminated by +254707376900,
+3/18/2021 4:01:55 PM,Dorice Shiundu (012),+254724709018,unanswered,00:00:19,00:00:00,Failed,
+3/18/2021 4:01:05 PM,Linda Kobia (008),+254704302712,answered,00:00:06,00:00:58,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-%252B254704302712_20210318130111%25282510%2529.wav
+3/18/2021 4:02:18 PM,Dorice Shiundu (012),+254714500621,unanswered,00:00:24,00:00:00,Failed,
+3/18/2021 4:03:47 PM,Linda Kobia (008),+254720941314,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 4:04:30 PM,Linda Kobia (008),+254724811461,answered,00:00:25,00:01:05,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254724811461_20210318130455%25282517%2529.wav
+3/18/2021 3:58:38 PM,Linda Kobia (008),+254708586035,answered,00:00:11,00:01:54,Linda Kobia (008) replaced by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254708586035_20210318125849%25282496%2529.wav
+,+254708586035,Lillian Maina (025),answered,00:00:04,00:05:37,Terminated by 254708586035,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255B254708586035%255D_254708586035-025_20210318130047%25282496%2529.wav
+3/18/2021 4:06:15 PM,Zamzam Said (102),+254723333407,answered,00:00:20,00:00:43,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254723333407_20210318130635%25282518%2529.wav
+3/18/2021 4:07:56 PM,Zamzam Said (102),+254745927871,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 4:07:29 PM,Lillian Maina (025),+254790729916,answered,00:00:18,00:00:45,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254790729916_20210318130747%25282519%2529.wav
+3/18/2021 4:08:39 PM,Zamzam Said (102),+254718698675,answered,00:00:20,00:01:11,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254718698675_20210318130859%25282522%2529.wav
+3/18/2021 4:08:38 PM,Lillian Maina (025),+254746228926,answered,00:00:20,00:02:27,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254746228926_20210318130858%25282521%2529.wav
+3/18/2021 4:10:54 PM,Linda Kobia (008),+254728618132,answered,00:00:09,00:01:04,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254728618132_20210318131103%25282524%2529.wav
+3/18/2021 4:10:54 PM,Zamzam Said (102),+254794365692,answered,00:00:10,00:01:18,Terminated by 254794365692,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254794365692_20210318131104%25282523%2529.wav
+3/18/2021 4:12:01 PM,Lillian Maina (025),+254702521585,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 4:13:03 PM,+254702521585,IVR (802),answered,00:00:00,00:00:05,Terminated by +254702521585,
+3/18/2021 4:13:18 PM,+254704812846,IVR (802),answered,00:00:00,00:00:03,Terminated by +254704812846,
+3/18/2021 4:13:14 PM,Lillian Maina (025),+254790979674,answered,00:00:14,00:00:06,Terminated by 254790979674,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254790979674_20210318131328%25282527%2529.wav
+3/18/2021 4:13:27 PM,+254722289771,IVR (802),answered,00:00:00,00:00:08,Terminated by +254722289771,
+3/18/2021 4:13:32 PM,+254719793986,IVR (802),answered,00:00:00,00:00:10,Terminated by +254719793986,
+3/18/2021 4:13:39 PM,+254702521585,IVR (802),answered,00:00:00,00:00:13,Terminated by +254702521585,
+3/18/2021 4:14:01 PM,+254702521585,IVR (802),answered,00:00:00,00:00:12,Terminated by +254702521585,
+3/18/2021 4:13:42 PM,Lillian Maina (025),+254708530315,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 4:15:22 PM,Linda Kobia (008),+254110046929,unanswered,00:00:06,00:00:00,Failed,
+3/18/2021 4:15:37 PM,Linda Kobia (008),+254710540634,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 4:15:21 PM,+254722289771,IVR (802),answered,00:00:01,00:00:58,Terminated by +254722289771,
+3/18/2021 4:15:34 PM,Zamzam Said (102),+254700083776,answered,00:00:09,00:00:45,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254700083776_20210318131543%25282537%2529.wav
+3/18/2021 4:16:29 PM,Linda Kobia (008),+254707944175,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 4:17:14 PM,Linda Kobia (008),+254740329145,unanswered,00:00:30,00:00:00,Failed,
+3/18/2021 4:14:24 PM,Lillian Maina (025),+254726705045,answered,00:00:18,00:03:23,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254726705045_20210318131442%25282534%2529.wav
+3/18/2021 4:17:54 PM,Linda Kobia (008),+254729885795,answered,00:00:08,00:01:17,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254729885795_20210318131802%25282542%2529.wav
+3/18/2021 4:18:11 PM,Lillian Maina (025),+254720846794,answered,00:00:30,00:00:41,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254720846794_20210318131841%25282543%2529.wav
+3/18/2021 4:19:46 PM,Lillian Maina (025),+254723160013,answered,00:00:16,00:00:28,Terminated by 254723160013,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254723160013_20210318132002%25282544%2529.wav
+3/18/2021 4:21:10 PM,Lillian Maina (025),+254712968839,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 4:21:55 PM,Lillian Maina (025),+254757975563,unanswered,00:00:07,00:00:00,Failed,
+3/18/2021 4:22:08 PM,+254720687089,IVR (802),answered,00:00:00,00:00:04,Terminated by +254720687089,
+3/18/2021 4:22:48 PM,+254795636472,IVR (802),answered,00:00:00,00:00:12,Terminated by +254795636472,
+3/18/2021 4:17:32 PM,Zamzam Said (102),+254720798836,answered,00:00:15,00:05:31,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254720798836_20210318131747%25282541%2529.wav
+3/18/2021 4:23:52 PM,+254745927871,IVR (802),answered,00:00:00,00:00:05,Terminated by +254745927871,
+3/18/2021 4:24:39 PM,+254746628605,IVR (802),answered,00:00:01,00:00:17,Terminated by +254746628605,
+3/18/2021 4:23:34 PM,Zamzam Said (102),+254702743820,answered,00:00:18,00:01:34,Terminated by 254702743820,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254702743820_20210318132352%25282549%2529.wav
+3/18/2021 4:25:37 PM,Lillian Maina (025),+254724247354,answered,00:00:14,00:00:54,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254724247354_20210318132551%25282552%2529.wav
+3/18/2021 4:26:57 PM,Lillian Maina (025),+254729894431,answered,00:00:08,00:01:01,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254729894431_20210318132705%25282553%2529.wav
+3/18/2021 4:28:18 PM,+254714500621,IVR (802),answered,00:00:00,00:00:10,Terminated by +254714500621,
+3/18/2021 4:28:26 PM,Lillian Maina (025),+254716886479,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 4:30:59 PM,Lillian Maina (025),+254726790781,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 4:31:44 PM,Lillian Maina (025),+254723657231,answered,00:00:22,00:00:49,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254723657231_20210318133206%25282557%2529.wav
+3/18/2021 4:33:42 PM,Lillian Maina (025),+254723299605,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 4:34:24 PM,Lillian Maina (025),+254740386663,unanswered,00:00:44,00:00:00,Failed,
+3/18/2021 4:35:45 PM,Lillian Maina (025),+254726372776,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 4:36:28 PM,+254700263523,IVR (802),answered,00:00:00,00:00:10,IVR (802) replaced by Q Customer Care #1 (800),
+,+254700263523,Q Customer Care #1 (800),answered,00:00:00,00:00:08,Q Customer Care #1 (800) replaced by Linda Kobia (008),
+,+254700263523,Linda Kobia (008),answered,00:00:08,00:01:01,Terminated by +254700263523,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BCustomer%2520Care%2520%25231%25253A%252B254700263523%255D_%252B254700263523-008_20210318133646%25282561%2529.wav
+3/18/2021 4:36:43 PM,Lillian Maina (025),+254700527539,answered,00:00:25,00:02:05,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254700527539_20210318133708%25282562%2529.wav
+3/18/2021 4:39:17 PM,Lillian Maina (025),+254725663330,answered,00:00:25,00:00:57,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254725663330_20210318133942%25282563%2529.wav
+3/18/2021 4:41:30 PM,Linda Kobia (008),+254715461458,answered,00:00:11,00:02:15,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254715461458_20210318134141%25282564%2529.wav
+3/18/2021 4:42:11 PM,Lillian Maina (025),+254700263523,answered,00:00:08,00:02:05,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-0700263523_20210318134219%25282565%2529.wav
+3/18/2021 4:50:19 PM,Lillian Maina (025),+254721690474,unanswered,00:00:06,00:00:00,Failed,
+3/18/2021 4:51:50 PM,Lillian Maina (025),+254712755695,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 4:52:45 PM,Lillian Maina (025),+254723366524,answered,00:00:16,00:00:40,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254723366524_20210318135301%25282568%2529.wav
+3/18/2021 4:54:00 PM,+254718713621,IVR (802),answered,00:00:00,00:00:13,IVR (802) replaced by Q Customer Care #1 (800),
+,+254718713621,Q Customer Care #1 (800),answered,00:00:00,00:00:20,Q Customer Care #1 (800) replaced by Linda Kobia (008),
+,+254718713621,Linda Kobia (008),answered,00:00:19,00:00:42,Terminated by +254718713621,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BCustomer%2520Care%2520%25231%25253A%252B254718713621%255D_%252B254718713621-008_20210318135433%25282569%2529.wav
+3/18/2021 4:54:52 PM,Lillian Maina (025),+254728393397,answered,00:00:19,00:00:36,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254728393397_20210318135511%25282570%2529.wav
+3/18/2021 4:55:43 PM,+254773080497,IVR (802),answered,00:00:00,00:00:07,Terminated by 773080497,
+3/18/2021 4:57:25 PM,Lillian Maina (025),+254718713621,answered,00:00:17,00:01:43,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254718713621_20210318135742%25282572%2529.wav
+3/18/2021 5:01:00 PM,+254707944175,IVR (802),answered,00:00:00,00:00:08,Terminated by +254707944175,
+3/18/2021 5:05:47 PM,+254721308834,IVR (802),answered,00:00:00,00:00:10,Terminated by +254721308834,
+3/18/2021 5:06:05 PM,+254721308834,IVR (802),answered,00:00:00,00:00:07,Terminated by +254721308834,
+3/18/2021 5:06:02 PM,Lillian Maina (025),+254727088176,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 5:07:42 PM,Lillian Maina (025),+254723541766,answered,00:00:18,00:01:14,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254723541766_20210318140800%25282577%2529.wav
+3/18/2021 5:09:23 PM,Lillian Maina (025),+254719198079,unanswered,00:00:31,00:00:00,Failed,
+3/18/2021 5:10:19 PM,+254724775013,IVR (802),answered,00:00:01,00:00:16,Terminated by +254724775013,
+3/18/2021 5:14:13 PM,Lillian Maina (025),+254722915600,answered,00:00:14,00:01:22,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254722915600_20210318141427%25282580%2529.wav
+3/18/2021 5:16:42 PM,Linda Kobia (008),+254745892183,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 5:15:54 PM,Lillian Maina (025),+254722233395,answered,00:00:09,00:02:38,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254722233395_20210318141603%25282581%2529.wav
+3/18/2021 5:17:38 PM,Linda Kobia (008),+254748696086,answered,00:00:19,00:01:10,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254748696086_20210318141757%25282583%2529.wav
+3/18/2021 5:18:49 PM,Lillian Maina (025),+254791320926,answered,00:00:10,00:00:43,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254791320926_20210318141859%25282584%2529.wav
+3/18/2021 5:20:58 PM,+254707944175,IVR (802),answered,00:00:00,00:00:12,Terminated by +254707944175,
+3/18/2021 5:19:46 PM,Lillian Maina (025),+254720842246,answered,00:00:29,00:00:56,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254720842246_20210318142015%25282586%2529.wav
+3/18/2021 5:19:23 PM,Linda Kobia (008),+254715010396,answered,00:00:22,00:03:20,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254715010396_20210318141945%25282585%2529.wav
+3/18/2021 5:22:37 PM,+254727126939,IVR (802),answered,00:00:00,00:00:13,IVR (802) replaced by Q Customer Care #1 (800),
+,+254727126939,Q Customer Care #1 (800),answered,00:00:01,00:00:17,Q Customer Care #1 (800) replaced by Linda Kobia (008),
+,+254727126939,Linda Kobia (008),answered,00:00:02,00:00:46,Terminated by +254727126939,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BCustomer%2520Care%2520%25231%25253A%252B254727126939%255D_%252B254727126939-008_20210318142308%25282588%2529.wav
+3/18/2021 5:24:44 PM,Lillian Maina (025),+254716614155,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 5:25:26 PM,Lillian Maina (025),+254705596233,unanswered,00:00:19,00:00:00,Failed,
+3/18/2021 5:26:00 PM,+254721690474,IVR (802),answered,00:00:00,00:00:02,Terminated by +254721690474,
+3/18/2021 5:26:07 PM,Lillian Maina (025),+254721453810,answered,00:00:12,00:00:43,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254721453810_20210318142619%25282592%2529.wav
+3/18/2021 5:28:02 PM,Linda Kobia (008),+254740078270,unanswered,00:00:43,00:00:00,Failed,
+3/18/2021 5:28:31 PM,Lillian Maina (025),+254728496288,answered,00:00:15,00:00:40,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254728496288_20210318142846%25282594%2529.wav
+3/18/2021 5:29:46 PM,+254727088176,IVR (802),answered,00:00:00,00:00:14,Terminated by +254727088176,
+3/18/2021 5:30:18 PM,Lillian Maina (025),+254722948342,unanswered,00:00:05,00:00:00,Failed,
+3/18/2021 5:29:45 PM,Linda Kobia (008),+254710543325,answered,00:00:12,00:00:52,Terminated by Linda Kobia (008),https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254710543325_20210318142957%25282595%2529.wav
+3/18/2021 5:31:14 PM,Lillian Maina (025),+254704178491,answered,00:00:12,00:00:38,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254704178491_20210318143126%25282598%2529.wav
+3/18/2021 5:32:08 PM,Lillian Maina (025),+254725976230,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 5:32:46 PM,Lillian Maina (025),+254700310358,answered,00:00:27,00:00:03,Terminated by 254700310358,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254700310358_20210318143313%25282600%2529.wav
+3/18/2021 5:34:42 PM,Lillian Maina (025),+254711926804,answered,00:00:13,00:00:06,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254711926804_20210318143455%25282601%2529.wav
+3/18/2021 5:36:06 PM,Lillian Maina (025),+254715231282,answered,00:00:25,00:00:23,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254715231282_20210318143631%25282602%2529.wav
+3/18/2021 5:37:00 PM,Lillian Maina (025),+254713712740,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 5:37:50 PM,Lillian Maina (025),+254792139604,answered,00:00:14,00:02:08,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254792139604_20210318143804%25282604%2529.wav
+3/18/2021 5:40:54 PM,Lillian Maina (025),+254700200452,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 5:41:42 PM,Lillian Maina (025),+254742548206,answered,00:00:17,00:00:47,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254742548206_20210318144159%25282606%2529.wav
+3/18/2021 5:42:54 PM,+254785466053,IVR (802),answered,00:00:01,00:00:03,Terminated by +254785466053,
+3/18/2021 5:43:24 PM,Lillian Maina (025),+254721382804,answered,00:00:09,00:00:43,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254721382804_20210318144333%25282608%2529.wav
+3/18/2021 5:44:51 PM,+254737286054,IVR (802),answered,00:00:01,00:00:07,Terminated by +254737286054,
+3/18/2021 5:44:53 PM,Lillian Maina (025),+254703959575,answered,00:00:23,00:00:46,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254703959575_20210318144516%25282610%2529.wav
+3/18/2021 5:46:29 PM,Lillian Maina (025),+254724908774,unanswered,00:00:16,00:00:00,Failed,
+3/18/2021 5:47:08 PM,Lillian Maina (025),+254720144269,answered,00:00:22,00:00:46,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254720144269_20210318144730%25282612%2529.wav
+3/18/2021 5:48:30 PM,+254713712740,IVR (802),answered,00:00:00,00:00:12,Terminated by +254713712740,
+3/18/2021 5:48:50 PM,+254713712740,IVR (802),answered,00:00:00,00:00:07,Terminated by +254713712740,
+3/18/2021 5:48:25 PM,Lillian Maina (025),+254705067084,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 5:49:14 PM,Lillian Maina (025),+254723642744,answered,00:00:22,00:01:28,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254723642744_20210318144936%25282616%2529.wav
+3/18/2021 5:52:27 PM,Lillian Maina (025),+254726359513,answered,00:00:21,00:00:42,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254726359513_20210318145248%25282617%2529.wav
+3/18/2021 5:54:07 PM,+254713316850,IVR (802),answered,00:00:00,00:00:08,Terminated by +254713316850,
+3/18/2021 5:55:54 PM,+254713316850,IVR (802),answered,00:00:01,00:00:05,Terminated by +254713316850,
+3/18/2021 5:55:54 PM,Lillian Maina (025),+254727271504,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 5:57:39 PM,Lillian Maina (025),+254707176227,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 5:58:28 PM,Lillian Maina (025),+254729213546,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 5:58:32 PM,Linda Kobia (008),+254718218703,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 5:59:42 PM,Lillian Maina (025),+254746351523,unanswered,00:00:04,00:00:00,Failed,
+3/18/2021 6:00:34 PM,Lillian Maina (025),+254742995290,answered,00:00:21,00:00:42,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254742995290_20210318150055%25282625%2529.wav
+3/18/2021 6:01:44 PM,Lillian Maina (025),+254727764226,answered,00:00:24,00:01:50,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254727764226_20210318150208%25282626%2529.wav
+3/18/2021 6:04:33 PM,Lillian Maina (025),+254728549948,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 6:05:17 PM,Lillian Maina (025),+254722292527,answered,00:00:23,00:00:41,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254722292527_20210318150540%25282628%2529.wav
+3/18/2021 6:06:25 PM,Lillian Maina (025),+254721350562,answered,00:00:08,00:00:28,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254721350562_20210318150633%25282629%2529.wav
+3/18/2021 6:07:08 PM,Lillian Maina (025),+254714323666,unanswered,00:00:04,00:00:00,Failed,
+3/18/2021 6:07:56 PM,Lillian Maina (025),+254724089930,answered,00:00:21,00:01:13,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254724089930_20210318150817%25282631%2529.wav
+3/18/2021 6:13:50 PM,Lillian Maina (025),+254792151407,answered,00:00:16,00:00:55,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254792151407_20210318151406%25282632%2529.wav
+3/18/2021 6:15:06 PM,Lillian Maina (025),+254721350562,answered,00:00:13,00:00:43,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254721350562_20210318151519%25282633%2529.wav
+3/18/2021 6:16:10 PM,Lillian Maina (025),+254720097022,unanswered,00:00:33,00:00:00,Failed,
+3/18/2021 6:18:09 PM,Lillian Maina (025),+254725133839,answered,00:00:14,00:00:40,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254725133839_20210318151823%25282635%2529.wav
+3/18/2021 6:19:07 PM,Lillian Maina (025),+254725559926,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 6:20:06 PM,Lillian Maina (025),+254700310358,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 6:21:30 PM,+254745653264,IVR (802),answered,00:00:00,00:00:11,Terminated by +254745653264,
+3/18/2021 6:21:54 PM,Lillian Maina (025),+254727627429,answered,00:00:15,00:04:50,Terminated by 254727627429,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254727627429_20210318152209%25282639%2529.wav
+3/18/2021 6:27:33 PM,Lillian Maina (025),+254721378599,unanswered,00:00:18,00:00:00,Failed,
+3/18/2021 6:26:57 PM,+254702267494,IVR (802),answered,00:00:00,00:00:13,IVR (802) replaced by Q Customer Care #1 (800),
+,+254702267494,Q Customer Care #1 (800),answered,00:00:00,00:00:06,Q Customer Care #1 (800) replaced by Linda Kobia (008),
+,+254702267494,Linda Kobia (008),answered,00:00:06,00:00:00,Picked up by Linda Kobia (008),
+,+254702267494,Linda Kobia (008),answered,00:00:00,00:00:36,Terminated by +254702267494,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-%252B254702267494_20210318152716%25282641%2529.wav
+3/18/2021 6:28:29 PM,Lillian Maina (025),+254722135495,answered,00:00:18,00:00:48,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254722135495_20210318152847%25282643%2529.wav
+3/18/2021 6:31:02 PM,Lillian Maina (025),+254724841820,answered,00:00:13,00:01:04,Terminated by 254724841820,https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254724841820_20210318153115%25282644%2529.wav
+3/18/2021 6:32:43 PM,Lillian Maina (025),+254705825402,answered,00:00:12,00:00:47,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254705825402_20210318153255%25282645%2529.wav
+3/18/2021 6:34:16 PM,Linda Kobia (008),+254204969111,answered,00:00:01,00:01:15,Terminated by +254204969111,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-0204969111_20210318153417%25282646%2529.wav
+3/18/2021 6:35:46 PM,Linda Kobia (008),+254204969111,unanswered,00:00:00,00:00:00,Target not found,
+3/18/2021 6:37:01 PM,Lillian Maina (025),+254715474789,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 6:36:02 PM,Linda Kobia (008),+254204969111,answered,00:00:01,00:04:35,Terminated by 254204969111,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-254204969111_20210318153603%25282648%2529.wav
+3/18/2021 6:40:44 PM,Lillian Maina (025),+254724802665,answered,00:00:08,00:00:47,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-724802665_20210318154052%25282650%2529.wav
+3/18/2021 6:41:56 PM,Lillian Maina (025),+254720390445,answered,00:00:26,00:01:33,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-720390445_20210318154222%25282651%2529.wav
+3/18/2021 6:44:26 PM,Lillian Maina (025),+254708705090,answered,00:00:16,00:01:01,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254708705090_20210318154442%25282652%2529.wav
+3/18/2021 6:45:57 PM,Lillian Maina (025),+25472600948,unanswered,00:00:05,00:00:00,Failed,
+3/18/2021 6:45:09 PM,+254707549355,IVR (802),answered,00:00:00,00:00:15,IVR (802) replaced by Q Customer Care #1 (800),
+,+254707549355,Q Customer Care #1 (800),answered,00:00:01,00:00:06,Q Customer Care #1 (800) replaced by Linda Kobia (008),
+,+254707549355,Linda Kobia (008),answered,00:00:06,00:00:00,Picked up by Linda Kobia (008),
+,+254707549355,Linda Kobia (008),answered,00:00:00,00:00:54,Terminated by +254707549355,https://pendahealth.elastix.com:5001/#/download_record/008%252F%255BLinda%2520Kobia%255D_008-%252B254707549355_20210318154531%25282654%2529.wav
+3/18/2021 6:46:42 PM,Lillian Maina (025),+254720301332,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 6:48:10 PM,Lillian Maina (025),+254727349954,answered,00:00:18,00:00:43,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254727349954_20210318154828%25282657%2529.wav
+3/18/2021 6:49:52 PM,Lillian Maina (025),+254726089667,answered,00:00:28,00:00:38,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254726089667_20210318155020%25282658%2529.wav
+3/18/2021 6:51:49 PM,Lillian Maina (025),+254796878460,unanswered,00:00:07,00:00:00,Failed,
+3/18/2021 6:52:25 PM,Lillian Maina (025),+254798324335,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 6:55:14 PM,Lillian Maina (025),+254791847754,answered,00:00:22,00:01:12,Terminated by Lillian Maina (025),https://pendahealth.elastix.com:5001/#/download_record/025%252F%255BLillian%2520Maina%255D_025-254791847754_20210318155536%25282661%2529.wav
+3/18/2021 6:57:13 PM,Lillian Maina (025),+254719520820,unanswered,00:00:20,00:00:00,Failed,
+3/18/2021 6:57:43 PM,Lillian Maina (025),+254720700101,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 7:02:16 PM,+254113794498,IVR (802),answered,00:00:01,00:00:10,IVR (802) replaced by Q Customer Care #1 (800),
+,+254113794498,Q Customer Care #1 (800),unanswered,00:00:01,00:00:00,Terminated by Q Customer Care #1 (800),
+3/18/2021 7:08:33 PM,+254710253800,IVR (802),answered,00:00:00,00:00:06,Terminated by +254710253800,
+3/18/2021 7:35:28 PM,+254706386016,IVR (802),answered,00:00:00,00:00:13,IVR (802) replaced by Q Customer Care #1 (800),
+,+254706386016,Q Customer Care #1 (800),unanswered,00:00:00,00:00:00,Terminated by Q Customer Care #1 (800),
+3/18/2021 7:37:35 PM,+254706386016,IVR (802),answered,00:00:00,00:00:10,IVR (802) replaced by Q Customer Care #1 (800),
+,+254706386016,Q Customer Care #1 (800),unanswered,00:00:01,00:00:00,Terminated by Q Customer Care #1 (800),
+3/18/2021 7:38:10 PM,+254706386016,IVR (802),answered,00:00:00,00:00:14,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254706386016,Q Clinical Care #2 (801),unanswered,00:00:01,00:00:32,Terminated by +254706386016,
+3/18/2021 8:21:10 PM,Dorice Shiundu (012),Zamzam Said (102),unanswered,00:00:20,00:00:00,"No answer, forwarded to VMail (102)",
+,Dorice Shiundu (012),VMail (102),answered,00:00:01,00:00:07,Terminated by Dorice Shiundu (012),
+3/18/2021 8:28:42 PM,Zamzam Said (102),Dorice Shiundu (012),answered,00:00:08,00:00:00,Picked up by Dorice Shiundu (012),
+,Zamzam Said (102),Dorice Shiundu (012),answered,00:00:00,00:00:44,Terminated by Dorice Shiundu (012),https://pendahealth.elastix.com:5001/#/download_record/012%252F%255BDorice%2520Shiundu%255D_012-102_20210318172849%25282671%2529.wav
+3/18/2021 8:32:13 PM,+254710930743,IVR (802),answered,00:00:00,00:00:04,Terminated by +254710930743,
+3/18/2021 8:42:01 PM,+254718867296,IVR (802),answered,00:00:00,00:00:17,IVR (802) replaced by Q Customer Care #1 (800),
+,+254718867296,Q Customer Care #1 (800),unanswered,00:00:00,00:00:00,Terminated by Q Customer Care #1 (800),
+3/18/2021 8:42:38 PM,+254718867296,IVR (802),answered,00:00:00,00:00:13,IVR (802) replaced by Q Customer Care #1 (800),
+,+254718867296,Q Customer Care #1 (800),unanswered,00:00:01,00:00:00,Terminated by Q Customer Care #1 (800),
+3/18/2021 8:44:48 PM,Zamzam Said (102),+254718867296,answered,00:00:12,00:00:44,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254718867296_20210318174500%25282675%2529.wav
+3/18/2021 8:46:43 PM,Zamzam Said (102),+254793269677,unanswered,00:00:35,00:00:00,Failed,
+3/18/2021 8:49:16 PM,+254719520820,IVR (802),answered,00:00:00,00:00:06,Terminated by +254719520820,
+3/18/2021 8:49:30 PM,+254719520820,IVR (802),answered,00:00:00,00:00:06,Terminated by +254719520820,
+3/18/2021 8:47:38 PM,Zamzam Said (102),+254793269678,answered,00:00:29,00:02:48,Terminated by 254793269678,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254793269678_20210318174807%25282677%2529.wav
+3/18/2021 8:52:00 PM,Zamzam Said (102),+254718867296,answered,00:00:06,00:00:33,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254718867296_20210318175206%25282680%2529.wav
+3/18/2021 8:52:52 PM,Zamzam Said (102),+254706386016,unanswered,00:00:26,00:00:00,Failed,
+3/18/2021 8:53:33 PM,Zamzam Said (102),+254113794498,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 9:18:17 PM,+254727432734,IVR (802),answered,00:00:00,00:00:14,IVR (802) replaced by Q Customer Care #1 (800),
+,+254727432734,Q Customer Care #1 (800),unanswered,00:00:00,00:01:41,Terminated by +254727432734,
+3/18/2021 9:26:06 PM,+254707376900,IVR (802),answered,00:00:00,00:00:02,Terminated by +254707376900,
+3/18/2021 9:26:28 PM,+254732323000,IVR (802),answered,00:00:00,00:00:46,Terminated by +254732323000,
+3/18/2021 9:27:25 PM,+254732323000,IVR (802),answered,00:00:01,00:00:00,Terminated by +254732323000,
+3/18/2021 9:27:37 PM,+254732323000,IVR (802),answered,00:00:00,00:00:13,IVR (802) replaced by Q Customer Care #1 (800),
+,+254732323000,Q Customer Care #1 (800),unanswered,00:00:00,00:00:17,Terminated by +254732323000,
+3/18/2021 9:37:44 PM,Zamzam Said (102),+25473232000,unanswered,00:00:08,00:00:00,Failed,
+3/18/2021 9:38:04 PM,Zamzam Said (102),+25473232300,unanswered,00:00:15,00:00:00,Failed,
+3/18/2021 9:37:51 PM,+254700000279,IVR (802),answered,00:00:00,00:00:12,IVR (802) replaced by Q Customer Care #1 (800),
+,+254700000279,Q Customer Care #1 (800),answered,00:00:00,00:00:08,Q Customer Care #1 (800) replaced by Zamzam Said (102),
+,+254700000279,Zamzam Said (102),answered,00:00:07,00:00:00,Picked up by Zamzam Said (102),
+,+254700000279,Zamzam Said (102),answered,00:00:00,00:00:33,Terminated by +254700000279,https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-%252B254700000279_20210318183810%25282691%2529.wav
+3/18/2021 9:39:31 PM,Zamzam Said (102),+254732323000,answered,00:00:26,00:00:40,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254732323000_20210318183957%25282692%2529.wav
+3/18/2021 9:40:55 PM,Zamzam Said (102),+254727432734,answered,00:00:14,00:01:33,Terminated by Zamzam Said (102),https://pendahealth.elastix.com:5001/#/download_record/102%252F%255BZamzam%2520Said%255D_102-254727432734_20210318184109%25282693%2529.wav
+3/18/2021 10:40:23 PM,+254716835846,Umoja 1 (019),unanswered,00:00:24,00:00:00,"Busy, forwarded to VMail (019)",
+,+254716835846,VMail (019),answered,00:00:00,00:00:12,Transfer of +254716835846 failed,
+,+254716835846,Abraham (000),unanswered,00:00:12,00:00:00,Failed Canceled,
+3/18/2021 10:54:33 PM,+254726677518,Umoja 1 (019),unanswered,00:00:30,00:00:00,Failed Canceled,
+3/18/2021 10:55:48 PM,+254726677518,Umoja 1 (019),unanswered,00:00:30,00:00:00,Failed Canceled,
+3/18/2021 11:07:17 PM,Umoja 1 (019),+254726677518,unanswered,00:00:34,00:00:00,Failed,
+3/18/2021 11:08:11 PM,Umoja 1 (019),+254716835846,answered,00:00:08,00:00:50,Terminated by Umoja 1 (019),https://pendahealth.elastix.com:5001/#/download_record/019%252F%255BUmoja%25201%255D_019-%252B254716835846_20210318200819%25282698%2529.wav
+3/18/2021 11:09:00 PM,+254726677518,Umoja 1 (019),unanswered,00:00:00,00:00:00,"Busy, forwarded to VMail (019)",
+,+254726677518,VMail (019),answered,00:00:00,00:00:43,Terminated by +254726677518,
+3/18/2021 11:09:49 PM,+254726677518,Umoja 1 (019),answered,00:00:17,00:00:00,Picked up by Umoja 1 (019),
+,+254726677518,Umoja 1 (019),answered,00:00:00,00:00:53,Terminated by +254726677518,https://pendahealth.elastix.com:5001/#/download_record/019%252F%255BUmoja%25201%255D_019-%252B254726677518_20210318201005%25282701%2529.wav
+3/18/2021 11:17:30 PM,+254729719941,Umoja 1 (019),unanswered,00:00:08,00:00:00,Failed Canceled,
+3/18/2021 11:47:33 PM,Umoja 1 (019),+254729719941,unanswered,00:00:32,00:00:00,Failed,
+3/18/2021 11:48:15 PM,Umoja 1 (019),+254729719941,unanswered,00:00:19,00:00:00,Failed,
