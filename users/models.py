@@ -4,13 +4,21 @@ from django.db.models.signals import post_save
 from django.dispatch import receiver
 
 class Profile(models.Model):
-    # user = models.OneToOneField(User, on_delete=models.CASCADE)
+    user = models.OneToOneField(User, on_delete=models.CASCADE)
     bio = models.TextField(max_length=500, blank=True)
     location = models.CharField(max_length=30, blank=True)
     birth_date = models.DateField(null=True, blank=True)
 
+<<<<<<< HEAD
 #@receiver(post_save, sender=User)
 #def update_user_profile(sender, instance, created, **kwargs):
 #    if created:
 #        Profile.objects.create(user=instance)
 #        instance.profile.save()
+=======
+# @receiver(post_save, sender=User)
+# def update_user_profile(sender, instance, created, **kwargs):
+#     if created:
+#         Profile.objects.create(user=instance)
+#         instance.profile.save()
+>>>>>>> 62c6c9c1bd685a2bf1f4cd9882d73ed1b0c1c8c3
